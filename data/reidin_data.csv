@@ -1,0 +1,692 @@
+Transaction Type,Subtype,Sales Sequence,No,Date,Community,Property,Property Type,Unit,Bedrooms,Floor,Parking,Balcony Area,Size (Sqf),Land Size,Amount (AED),AED/Sqf,Developer
+Sales - Ready,Delayed Sell,Primary,41-10218-2023,31-05-2023,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,,0 B/R,,EU,,398.81,,1969000.0,4937.24,The First Group
+Sales - Ready,Sale,Primary,11-15882-2023,25-05-2023,Dubai Marina,Opal Marina Tower,Apartment,202,2 B/R,2,B1-21,592.02,1901.03,,1721500.0,905.56,Mismak Properties
+Sales - Ready,Sale,Primary,11-15885-2023,25-05-2023,Dubai Marina,Opal Marina Tower,Apartment,204,2 B/R,2,B1-27,592.02,1889.08,,1608300.0,851.37,Mismak Properties
+Sales - Ready,Sale,Primary,11-15891-2023,25-05-2023,Dubai Marina,Opal Marina Tower,Apartment,205,2 B/R,2,B1-28,592.02,1889.08,,1653600.0,875.35,Mismak Properties
+Sales - Ready,Sale,Primary,11-15897-2023,25-05-2023,Dubai Marina,Opal Marina Tower,Apartment,304,2 B/R,3,B2-4,657.03,1977.02,,1676200.0,847.84,Mismak Properties
+Sales - Ready,Sale,Primary,11-15907-2023,25-05-2023,Dubai Marina,Opal Marina Tower,Apartment,501,2 B/R,5,B2-13,234.98,1546.14,,1420000.0,918.42,Mismak Properties
+Sales - Ready,Sale,Primary,11-15904-2023,25-05-2023,Dubai Marina,Opal Marina Tower,Apartment,506,1 B/R,5,B2-18,162.0,1064.13,,1002300.0,941.9,Mismak Properties
+Sales - Ready,Sale,Primary,11-15815-2023,24-05-2023,Dubai Marina,Opal Marina Tower,Apartment,101,2 B/R,1,B1-18,591.05,1898.66,,1721500.0,906.69,Mismak Properties
+Sales - Ready,Sale,Primary,11-15848-2023,24-05-2023,Dubai Marina,Opal Marina Tower,Apartment,102,2 B/R,1,B1-19,591.05,1950.11,,1766800.0,906.0,Mismak Properties
+Sales - Ready,Sale,Primary,11-15855-2023,24-05-2023,Dubai Marina,Opal Marina Tower,Apartment,201,2 B/R,2,B1-20,592.02,1901.03,,1721500.0,905.56,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-9245-2023,17-05-2023,Dubai Marina,Marina Arcade Tower,Apartment,2204,2 B/R,,UB-83,161.03,1598.67,,2271000.0,1420.56,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-14685-2023,16-05-2023,Dubai Marina,Marina Arcade Tower,Apartment,3002,2 B/R,,LB-71,124.22,1639.14,,2495850.0,1522.66,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-14712-2023,16-05-2023,Jumeirah Beach Residence,Bahar 2,Apartment,2502,4 B/R,25,"M-099, M-126",295.69,3005.95,,2600000.0,864.95,Dubai Properties
+Sales - Ready,Sale,Primary,11-13837-2023,09-05-2023,Dubai Marina,Continental Tower,Apartment,2303,2 B/R,23,B2-35,172.01,1291.57,,1990000.0,1540.76,Dubai Continental Investment Group
+Sales - Ready,Sale,Primary,11-13229-2023,04-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2806,1 B/R,28,B3-79,181.05,1083.07,,1049400.0,968.91,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-8187-2023,02-05-2023,Dubai Marina,Marina Arcade Tower,Apartment,3101,3 B/R,,"LB-34, LB-66",154.46,2410.06,,3416000.0,1417.39,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-12789-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1003,1 B/R,10,B2-45,162.0,1064.13,,897750.0,843.65,Mismak Properties
+Sales - Ready,Sale,Primary,11-12739-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1005,2 B/R,10,B2-47,234.98,1536.35,,1308340.0,851.59,Mismak Properties
+Sales - Ready,Sale,Primary,11-12945-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1101,2 B/R,11,B2-49,234.98,1546.14,,1462240.0,945.74,Mismak Properties
+Sales - Ready,Sale,Primary,11-12740-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1103,1 B/R,11,B2-51,162.0,1064.13,,931000.0,874.89,Mismak Properties
+Sales - Ready,Sale,Primary,11-12743-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1104,2 B/R,11,B2-52,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12746-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1201,2 B/R,12,B2-55,234.98,1546.14,,1462240.0,945.74,Mismak Properties
+Sales - Ready,Sale,Primary,11-12748-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1203,1 B/R,12,B2-57,162.0,1064.13,,931000.0,874.89,Mismak Properties
+Sales - Ready,Sale,Primary,11-12881-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1204,2 B/R,12,B2-58,234.98,1536.67,,1337700.0,870.52,Mismak Properties
+Sales - Ready,Sale,Primary,11-13000-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1303,1 B/R,13,B2-63,162.0,1064.13,,980000.0,920.94,Mismak Properties
+Sales - Ready,Sale,Primary,11-12754-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1304,2 B/R,13,B2-64,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12770-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1401,2 B/R,14,B2-67,234.98,1546.14,,1462240.0,945.74,Mismak Properties
+Sales - Ready,Sale,Primary,11-12784-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1403,1 B/R,14,B2-69,162.0,1064.13,,931000.0,874.89,Mismak Properties
+Sales - Ready,Sale,Primary,11-12790-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1404,2 B/R,14,B2-70,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12793-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1503,1 B/R,15,B2-75,162.0,1064.13,,931000.0,874.89,Mismak Properties
+Sales - Ready,Sale,Primary,11-12795-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1604,2 B/R,16,B3-5,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12799-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1703,1 B/R,17,B3-10,162.0,1064.13,,931000.0,874.89,Mismak Properties
+Sales - Ready,Sale,Primary,11-12798-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1704,2 B/R,17,B3-11,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12794-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1705,2 B/R,17,B3-12,234.98,1536.35,,1352325.0,880.22,Mismak Properties
+Sales - Ready,Sale,Primary,11-12787-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1803,1 B/R,18,B3-16,162.0,1064.13,,931000.0,874.89,Mismak Properties
+Sales - Ready,Sale,Primary,11-12781-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1804,2 B/R,18,B3-17,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12766-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1805,2 B/R,18,B3-18,234.98,1536.35,,1352325.0,880.22,Mismak Properties
+Sales - Ready,Sale,Primary,11-12750-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1904,2 B/R,19,B3-23,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12849-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,1905,2 B/R,19,B3-24,234.98,1536.35,,1352325.0,880.22,Mismak Properties
+Sales - Ready,Sale,Primary,11-12773-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2003,1 B/R,20,B3-28,162.0,1064.13,,931000.0,874.89,Mismak Properties
+Sales - Ready,Sale,Primary,11-12785-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2004,2 B/R,20,B3-29,234.98,1536.67,,1308340.0,851.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-12731-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,203,1 B/R,2,B1-22,169.96,1071.99,,897750.0,837.46,Mismak Properties
+Sales - Ready,Sale,Primary,11-12737-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,206,1 B/R,2,B1-29,162.0,1064.13,,952185.0,894.8,Mismak Properties
+Sales - Ready,Sale,Primary,11-12848-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2103,1 B/R,21,B3-34,162.0,1064.13,,953230.0,895.78,Mismak Properties
+Sales - Ready,Sale,Primary,11-12791-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2104,2 B/R,21,B3-35,234.98,1536.67,,1352315.5,880.03,Mismak Properties
+Sales - Ready,Sale,Primary,11-12792-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2105,2 B/R,21,B3-36,234.98,1536.35,,1396310.0,908.85,Mismak Properties
+Sales - Ready,Sale,Primary,11-12797-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2301,2 B/R,23,B3-44,234.98,1546.14,,1552965.0,1004.41,Mismak Properties
+Sales - Ready,Sale,Primary,11-13001-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2303,1 B/R,23,B3-46,162.0,1064.13,,1003400.0,942.93,Mismak Properties
+Sales - Ready,Sale,Primary,11-12800-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2304,2 B/R,23,B3-47,234.98,1536.67,,1352315.5,880.03,Mismak Properties
+Sales - Ready,Sale,Primary,11-12745-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2403,1 B/R,24,B3-52,162.0,1064.13,,953230.0,895.78,Mismak Properties
+Sales - Ready,Sale,Primary,11-12749-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2503,1 B/R,25,B3-58,162.0,1064.13,,953230.0,895.78,Mismak Properties
+Sales - Ready,Sale,Primary,11-12764-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2504,2 B/R,25,B3-59,234.98,1536.67,,1352315.5,880.03,Mismak Properties
+Sales - Ready,Sale,Primary,11-12775-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2505,2 B/R,25,B3-60,234.98,1536.35,,1396310.0,908.85,Mismak Properties
+Sales - Ready,Sale,Primary,11-12783-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2603,1 B/R,26,B3-64,162.0,1064.13,,953230.0,895.78,Mismak Properties
+Sales - Ready,Sale,Primary,11-12788-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2604,2 B/R,26,B3-65,234.98,1536.67,,1352315.5,880.03,Mismak Properties
+Sales - Ready,Sale,Primary,11-12852-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2703,1 B/R,27,B3-70,162.0,1064.13,,953230.0,895.78,Mismak Properties
+Sales - Ready,Sale,Primary,11-12851-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2705,2 B/R,27,B3-72,234.98,1536.35,,1396310.0,908.85,Mismak Properties
+Sales - Ready,Sale,Primary,11-12850-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,2803,1 B/R,28,B3-76,181.05,1083.07,,975365.0,900.55,Mismak Properties
+Sales - Ready,Sale,Primary,11-12741-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,303,1 B/R,3,B2-3,162.0,1064.13,,897750.0,843.65,Mismak Properties
+Sales - Ready,Sale,Primary,11-12752-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,401,2 B/R,4,B2-7,234.98,1546.14,,1371610.0,887.12,Mismak Properties
+Sales - Ready,Sale,Primary,11-12786-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,404,2 B/R,4,B2-10,234.98,1536.67,,1264355.0,822.79,Mismak Properties
+Sales - Ready,Sale,Primary,11-12796-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,405,2 B/R,4,B2-11,234.98,1536.35,,1308340.0,851.59,Mismak Properties
+Sales - Ready,Sale,Primary,11-12808-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,406,1 B/R,4,B2-12,162.0,1064.13,,952185.0,894.8,Mismak Properties
+Sales - Ready,Sale,Primary,11-12812-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,504,2 B/R,5,B2-16,234.98,1536.67,,1264355.0,822.79,Mismak Properties
+Sales - Ready,Sale,Primary,11-12818-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,601,2 B/R,6,B2-19,234.98,1546.14,,1416925.0,916.43,Mismak Properties
+Sales - Ready,Sale,Primary,11-12821-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,606,1 B/R,6,B2-24,162.0,1064.13,,952185.0,894.8,Mismak Properties
+Sales - Ready,Sale,Primary,11-12822-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,704,2 B/R,7,B2-28,234.98,1536.67,,1264355.0,822.79,Mismak Properties
+Sales - Ready,Sale,Primary,11-12824-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,705,2 B/R,7,B2-29,234.98,1536.35,,1308340.0,851.59,Mismak Properties
+Sales - Ready,Sale,Primary,11-12744-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,803,1 B/R,8,B2-33,162.0,1064.13,,897750.0,843.65,Mismak Properties
+Sales - Ready,Sale,Primary,11-12751-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,804,2 B/R,8,B2-34,234.98,1536.67,,1264355.0,822.79,Mismak Properties
+Sales - Ready,Sale,Primary,11-12757-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,902,2 B/R,9,B2-38,234.98,1546.14,,1416925.0,916.43,Mismak Properties
+Sales - Ready,Sale,Primary,11-12768-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,903,1 B/R,9,B2-39,162.0,1064.13,,897750.0,843.65,Mismak Properties
+Sales - Ready,Sale,Primary,11-12782-2023,02-05-2023,Dubai Marina,Opal Marina Tower,Apartment,904,2 B/R,9,B2-40,234.98,1536.67,,1264355.0,822.79,Mismak Properties
+Sales - Ready,Sale,Primary,11-12529-2023,30-04-2023,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7104,2 B/R,71,B1-094,72.01,1464.55,,7500000.0,5121.03,Al Ain Properties
+Sales - Ready,Sale,Primary,11-12528-2023,30-04-2023,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7106,1 B/R,71,B1-330,81.81,696.75,,3500000.0,5023.3,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11978-2023,25-04-2023,Jumeirah Beach Residence,Bahar 2,Apartment,2402,4 B/R,24,"M-096,B-108",295.69,3005.95,,3100000.0,1031.29,Dubai Properties
+Sales - Ready,Sale,Primary,11-11752-2023,19-04-2023,Dubai Marina,Al Sahab 1,Apartment,803,2 B/R,8,176,44.02,1392.0,,2800000.0,2011.49,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-10918-2023,12-04-2023,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,1702,3 B/R,17,B3-200,76.21,2172.61,,2050000.0,943.57,Al Fattan Proprerties LLC
+Sales - Ready,Delayed Sell,Primary,41-6932-2023,07-04-2023,Dubai Marina,Marina Arcade Tower,Apartment,3202,2 B/R,,LB-53,,1514.93,,2215000.0,1462.12,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6710-2023,05-04-2023,Dubai Marina,Marina Arcade Tower,Apartment,1706,3 B/R,,"LB-68, LB-69",,2091.23,,2490000.0,1190.69,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6677-2023,04-04-2023,Dubai Marina,Marina Arcade Tower,Apartment,3601,3 B/R,,"UB-63, UB-64",154.46,2410.27,,3533000.0,1465.81,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-9944-2023,04-04-2023,Jumeirah Beach Residence,Sadaf 7,Apartment,P01,1 B/R,LP01,M383,1384.25,2700.04,,1650000.0,611.1,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-6430-2023,31-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,4003,2 B/R,,UB-53,161.03,1596.73,,2505000.0,1568.83,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6371-2023,30-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,2003,2 B/R,,LB-88,79.12,1214.93,,1928000.0,1586.92,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6331-2023,30-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,2702,2 B/R,,1F-50,75.35,1161.01,,1699000.0,1463.39,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6390-2023,30-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,3904,3 B/R,,"G-54, G-55",190.63,2446.33,,3914000.0,1599.94,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6238-2023,28-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,1806,2 B/R,,UB-93,,1342.38,,1943000.0,1447.43,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6184-2023,28-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,203,1 B/R,,1F-2,,1679.51,,2002000.0,1192.02,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6213-2023,28-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,3205,2 B/R,,LB-51,,1209.01,,1909000.0,1578.97,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6240-2023,28-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,4002,2 B/R,,UB-54,161.03,1598.67,,2269164.0,1419.41,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6244-2023,28-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,908,2 B/R,,UB-24,128.41,1653.24,,2155340.0,1303.7,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6179-2023,27-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,1704,2 B/R,,UB-97,161.03,1598.67,,2158250.0,1350.03,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-9007-2023,27-03-2023,Jumeirah Beach Residence,Bahar 2,Apartment,1202,1 B/R,12,B-132,183.1,1528.92,,1700000.0,1111.9,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-6103-2023,24-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,1705,2 B/R,,UB-96,85.68,1618.58,,2499000.0,1543.94,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6059-2023,24-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,2102,2 B/R,,1F-26,75.35,1161.97,,1850000.0,1592.12,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6046-2023,24-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,2205,2 B/R,,UB-82,85.68,1618.58,,2596000.0,1603.87,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6058-2023,24-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,2504,2 B/R,,UB-77,161.03,1598.67,,2290000.0,1432.44,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-6101-2023,24-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,3204,2 B/R,,LB-52,,1439.9,,2462000.0,1709.84,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-8877-2023,24-03-2023,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,3601,2 B/R,36,B3-070,85.79,1652.81,,2150000.0,1300.81,Al Fattan Proprerties LLC
+Sales - Ready,Delayed Sell,Primary,41-6031-2023,23-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,3104,2 B/R,,LB-54,,1221.93,,1866000.0,1527.09,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-8645-2023,23-03-2023,Jumeirah Beach Residence,Bahar 2,Apartment,1404,1 B/R,14,M-119,183.1,1528.92,,1580000.0,1033.41,Dubai Properties
+Sales - Ready,Sale,Primary,11-8433-2023,22-03-2023,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,3404,3 B/R,34,B2-176,88.05,2228.79,,2997700.0,1344.99,Al Fattan Proprerties LLC
+Sales - Ready,Lease to Own Registration,Primary,110-105-2023,21-03-2023,Dubai Marina,Opal Marina Tower,Apartment,2302,2 B/R,23,B3-45,234.98,1546.14,,800250.0,517.58,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-5725-2023,20-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,2903,2 B/R,,LB-76,79.12,1214.29,,2111550.0,1738.92,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-8092-2023,20-03-2023,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,,0 B/R,,EU,,419.15,,1495000.0,3566.74,The First Group
+Sales - Ready,Sale,Primary,11-6738-2023,09-03-2023,Dubai Marina,Marina Park,Apartment,402,2 B/R,4,22B,96.98,1016.01,,600000.0,590.54,Bhatia General Contracting Co. LLC
+Sales - Ready,Delayed Sell,Primary,41-4859-2023,07-03-2023,Dubai Marina,Marina Arcade Tower,Apartment,2805,2 B/R,,G-35,197.2,1632.79,,2441000.0,1494.99,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-6217-2023,06-03-2023,Dubai Marina,Damac Heights,Apartment,802,1 B/R,8,B5-20,131.64,836.15,,1510000.0,1805.9,Damac Properties
+Sales - Ready,Sale,Primary,11-6071-2023,02-03-2023,Dubai Marina,LIV Residence,Apartment,1905,3 B/R,19,B1-P27,235.19,1764.54,,4899548.0,2776.67,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-5941-2023,02-03-2023,Dubai Marina,Opal Marina Tower,Apartment,805,2 B/R,8,B2-35,234.98,1536.35,,1337000.0,870.25,Mismak Properties
+Sales - Ready,Sale,Primary,11-5948-2023,02-03-2023,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,2902,3 B/R,29,B3-075,77.07,2172.71,,2567800.0,1181.84,Al Fattan Proprerties LLC
+Sales - Ready,Sale,Primary,11-5928-2023,01-03-2023,Dubai Marina,DEC Twin Towers 1,Apartment,T1-405,1 B/R,4,G-174,,749.17,,500000.0,667.4,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-5924-2023,01-03-2023,Jumeirah Beach Residence,Murjan 3,Apartment,501,3 B/R,5,B715- B716,62.0,2170.24,,3550000.0,1635.77,Dubai Properties
+Sales - Ready,Sale,Primary,11-5930-2023,01-03-2023,Jumeirah Beach Residence,Sadaf 4,Apartment,602,3 B/R,6,B263/ B264,41.98,1797.37,,699000.0,388.9,Dubai Properties
+Sales - Ready,Sale,Primary,11-5929-2023,01-03-2023,Jumeirah Beach Residence,Sadaf 7,Apartment,3803,1 B/R,38,G91,106.99,1205.46,,912050.0,756.6,Dubai Properties
+Sales - Ready,Sale,Primary,11-5555-2023,27-02-2023,Dubai Marina,Marina Diamond Tower 5,Apartment,908,1 B/R,9,75 B1,69.0,707.95,,850000.0,1200.65,Diamond Developers
+Sales - Ready,Sale,Primary,11-5532-2023,27-02-2023,Jumeirah Beach Residence,Bahar 2,Apartment,702,1 B/R,7,M-098,183.1,1528.92,,1585000.0,1036.68,Dubai Properties
+Sales - Ready,Sale,Primary,11-5533-2023,27-02-2023,Jumeirah Beach Residence,Bahar 2,Apartment,902,1 B/R,9,B-105,183.1,1528.92,,1600000.0,1046.49,Dubai Properties
+Sales - Ready,Sale,Primary,11-5346-2023,24-02-2023,Jumeirah Beach Residence,Rimal 1,Apartment,LP4,4 B/R,L,0,96.01,4191.29,,5050000.0,1204.88,Dubai Properties
+Sales - Ready,Sale,Primary,11-5138-2023,23-02-2023,Dubai Marina,DEC Twin Towers 1,Apartment,T1-1004,1 B/R,10,G-166,65.01,823.45,,550000.0,667.92,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-5198-2023,23-02-2023,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,,0 B/R,,EU,,337.13,,1142246.0,3388.16,The First Group
+Sales - Ready,Sale,Primary,11-5006-2023,22-02-2023,Dubai Marina,Marina Diamond Tower 2,Apartment,503,2 B/R,5,36 B1,59.96,963.06,,579714.0,601.95,Diamond Developers
+Sales - Ready,Sale,Primary,11-4473-2023,16-02-2023,Dubai Marina,Marina Heights Tower,Apartment,302,2 B/R,3,P3-37,128.63,1647.21,,2000888.0,1214.71,SRG Properties
+Sales - Ready,Sale,Primary,11-4431-2023,16-02-2023,Dubai Marina,Opal Marina Tower,Apartment,2203,1 B/R,22,B3-40,162.0,1064.13,,956872.0,899.21,Mismak Properties
+Sales - Ready,Sale,Primary,11-4459-2023,16-02-2023,Jumeirah Beach Residence,Bahar 2,Apartment,102,1 B/R,1,B-115,183.1,1528.92,,1350000.0,882.98,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-3471-2023,15-02-2023,Dubai Marina,Marina Arcade Tower,Apartment,404,2 B/R,,UB-111,203.76,1641.4,,2159000.0,1315.34,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-4239-2023,14-02-2023,Jumeirah Beach Residence,Bahar 2,Apartment,1201,3 B/R,12,"M-101, M-118",100.21,2174.22,,3100000.0,1425.8,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-3286-2023,13-02-2023,Dubai Marina,Marina Arcade Tower,Apartment,3602,2 B/R,,UB-71,161.03,1598.67,,2121000.0,1326.73,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-3189-2023,10-02-2023,Dubai Marina,Marina Arcade Tower,Apartment,3604,3 B/R,,"UB-61, UB-65",154.46,2410.17,,3780000.0,1568.36,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-3552-2023,08-02-2023,Dubai Marina,Opal Marina Tower,Apartment,1006,1 B/R,10,B2-48,162.0,1064.13,,890000.0,836.36,Mismak Properties
+Sales - Ready,Sale,Primary,11-3550-2023,08-02-2023,Dubai Marina,Opal Marina Tower,Apartment,1406,1 B/R,14,B2-72,162.0,1064.13,,940000.0,883.35,Mismak Properties
+Sales - Ready,Sale,Primary,11-3551-2023,08-02-2023,Dubai Marina,Opal Marina Tower,Apartment,603,1 B/R,6,B2-21,162.0,1064.13,,849526.0,798.33,Mismak Properties
+Sales - Ready,Sale,Primary,11-3262-2023,06-02-2023,Dubai Marina,Opal Marina Tower,Apartment,1202,2 B/R,12,B2-56,234.98,1546.14,,1350000.0,873.14,Mismak Properties
+Sales - Ready,Sale,Primary,11-3010-2023,02-02-2023,Dubai Marina,Opal Marina Tower,Apartment,1301,2 B/R,13,B2-61,234.98,1546.14,,1366904.0,884.07,Mismak Properties
+Sales - Ready,Sale,Primary,11-2993-2023,02-02-2023,Dubai Marina,Opal Marina Tower,Apartment,1903,1 B/R,19,B3-22,162.0,1064.13,,980000.0,920.94,Mismak Properties
+Sales - Ready,Sale,Primary,11-3037-2023,02-02-2023,Dubai Marina,Opal Marina Tower,Apartment,605,2 B/R,6,B2-23,234.98,1536.35,,1236100.0,804.57,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-2461-2023,01-02-2023,Dubai Marina,Marina Arcade Tower,Apartment,1907,2 B/R,,UB-40,,1206.54,,1970000.0,1632.77,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-2353-2023,31-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,1703,2 B/R,,LB-91,79.12,1214.93,,1906000.0,1568.81,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-2215-2023,25-01-2023,Jumeirah Beach Residence,Bahar 2,Apartment,803,3 B/R,8,"B-121, B-122",100.32,2172.07,,2700000.0,1243.06,Dubai Properties
+Sales - Ready,Sale On Payment Plan,Primary,460-33-2023,23-01-2023,Dubai Marina,Stella Maris Tower,Apartment,3802,2 B/R,38,B3-48  0,138.1,1470.15,,2367992.86,1610.72,Bloom Properties
+Sales - Ready,Sale,Primary,11-1703-2023,19-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,2803,2 B/R,,LB-12,79.12,1216.44,,2001000.0,1644.96,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-1652-2023,19-01-2023,Dubai Marina,Opal Marina Tower,Apartment,1706,1 B/R,17,B3-13,162.0,1064.13,,950000.0,892.75,Mismak Properties
+Sales - Ready,Sale,Primary,11-1651-2023,19-01-2023,Dubai Marina,Opal Marina Tower,Apartment,502,2 B/R,5,B2-14,234.98,1546.14,,1282134.0,829.25,Mismak Properties
+Sales - Ready,Sale,Primary,11-1648-2023,19-01-2023,Dubai Marina,Opal Marina Tower,Apartment,706,1 B/R,7,B2-30,162.0,1064.13,,950000.0,892.75,Mismak Properties
+Sales - Ready,Sale,Primary,11-1514-2023,18-01-2023,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7102,5 B/R,71,"B1-009, B1-008",1051.1,5010.43,,47500000.0,9480.23,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-833-2023,12-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,2902,2 B/R,,1F-44,75.35,1163.59,,1715000.0,1473.89,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-834-2023,12-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,3603,2 B/R,,UB-70,197.2,1632.9,,2493000.0,1526.73,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-832-2023,12-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,606,2 B/R,,LB-17,79.12,1214.72,,1805886.0,1486.67,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-735-2023,11-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,3902,2 B/R,,LB-100,161.03,1598.67,,2395000.0,1498.12,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-665-2023,10-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,4401,4 B/R,,"UB-30, UB-31",1706.09,5055.96,,9000000.0,1780.08,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-661-2023,10-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,4402,4 B/R,,"UB-32, UB-33",1757.44,5438.19,,12913254.0,2374.55,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-312-2023,05-01-2023,Dubai Marina,Marina Arcade Tower,Apartment,3502,2 B/R,,UB-34,161.03,1598.67,,2112000.0,1321.1,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-495-2023,05-01-2023,Dubai Marina,DEC Twin Towers 1,Apartment,P1-26,0 B/R,P1,G-96,102.04,671.67,,457000.0,680.39,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-488-2023,05-01-2023,Dubai Marina,DEC Twin Towers 2,Apartment,T2-1803,2 B/R,18,B-144,193.0,1490.81,,968000.0,649.31,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-155-2023,03-01-2023,Dubai Marina,DEC Twin Towers 2,Apartment,T2-1501,1 B/R,15,B-114,65.01,823.45,,535000.0,649.71,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-189-2023,03-01-2023,Dubai Marina,Stella Maris Tower,Apartment,2502,2 B/R,25,B4-20,178.68,1515.46,,2367992.86,1562.55,Bloom Properties
+Sales - Ready,Sale,Primary,11-31619-2022,13-12-2022,Dubai Marina,Marina Heights Tower,Apartment,2710,2 B/R,27,B1-23,79.76,1287.16,,1391888.0,1081.36,SRG Properties
+Sales - Ready,Sale,Primary,11-30830-2022,08-12-2022,Dubai Marina,Opal Marina Tower,Apartment,505,2 B/R,5,B2-17,234.98,1536.35,,1236100.0,804.57,Mismak Properties
+Sales - Ready,Sale,Primary,11-30965-2022,08-12-2022,Jumeirah Beach Residence,Bahar 2,Apartment,802,1 B/R,8,M-095,183.1,1528.92,,1490000.0,974.55,Dubai Properties
+Sales - Ready,Sale,Primary,11-30265-2022,30-11-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1301,3 B/R,13,"B-126, B-127",100.21,2174.22,,2895000.0,1331.51,Dubai Properties
+Sales - Ready,Sale,Primary,11-29963-2022,28-11-2022,Dubai Marina,Continental Tower,Apartment,2905,2 B/R,29,B2-2,496.44,1651.84,,1650000.0,998.88,Dubai Continental Investment Group
+Sales - Ready,Sale,Primary,11-29769-2022,25-11-2022,Dubai Marina,Marina Heights Tower,Apartment,1102,2 B/R,11,B4-44,170.93,1834.19,,2001000.0,1090.95,SRG Properties
+Sales - Ready,Sale,Primary,11-29520-2022,24-11-2022,Dubai Marina,Opal Marina Tower,Apartment,1801,2 B/R,18,B3-14,234.98,1546.14,,1380000.0,892.54,Mismak Properties
+Sales - Ready,Sale,Primary,11-29533-2022,24-11-2022,Dubai Marina,Opal Marina Tower,Apartment,2602,2 B/R,26,B3-63,234.98,1546.14,,1500000.0,970.16,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-20748-2022,23-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,2907,2 B/R,,LB-92,111.52,1192.33,,1820000.0,1526.43,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-20468-2022,21-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,2807,2 B/R,,G-62,,1206.0,,1841000.0,1526.54,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-20429-2022,21-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,702,2 B/R,,1F-66,75.35,1160.47,,1576000.0,1358.07,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-28643-2022,16-11-2022,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,1101,2 B/R,11,B2-082,82.99,1647.97,,1500000.0,910.21,Al Fattan Proprerties LLC
+Sales - Ready,Lease to Own Registration,Primary,110-523-2022,15-11-2022,Jumeirah Beach Residence,Bahar 2,Apartment,201,3 B/R,2,"G-135, G-136",100.21,2174.22,,1081000.0,497.19,Dubai Properties
+Sales - Ready,Sale,Primary,11-28450-2022,15-11-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,2103,0 B/R,21,EU,,398.81,,1740000.0,4363.02,The First Group
+Sales - Ready,Delayed Sell,Primary,41-19785-2022,14-11-2022,Dubai Marina,Damac Heights,Apartment,3104,1 B/R,31,B2-27,138.1,879.2,,1668000.0,1897.17,Damac Properties
+Sales - Ready,Sale,Primary,11-28390-2022,14-11-2022,Dubai Marina,52-42 Tower 1,Apartment,1708,2 B/R,17,4F-034,107.75,1135.49,,3100000.0,2730.09,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-28421-2022,14-11-2022,Jumeirah Beach Residence,Bahar 2,Apartment,503,3 B/R,5,"M-113, M-114",100.32,2172.07,,2600000.0,1197.02,Dubai Properties
+Sales - Ready,Sale,Primary,11-28038-2022,10-11-2022,Dubai Marina,Opal Marina Tower,Apartment,1106,1 B/R,11,B2-54,162.0,1064.13,,920000.0,864.56,Mismak Properties
+Sales - Ready,Sale,Primary,11-28020-2022,10-11-2022,Dubai Marina,Opal Marina Tower,Apartment,1601,2 B/R,16,B3-2,234.98,1546.14,,1350000.0,873.14,Mismak Properties
+Sales - Ready,Sale,Primary,11-28037-2022,10-11-2022,Dubai Marina,Opal Marina Tower,Apartment,806,1 B/R,8,B2-36,162.0,1064.13,,905000.0,850.46,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-19436-2022,09-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,2901,1 B/R,,1F-59,42.84,801.49,,1169000.0,1458.54,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-28000-2022,09-11-2022,Jumeirah Beach Residence,Bahar 2,Apartment,402,1 B/R,4,G-118,183.1,1528.92,,1405000.0,918.95,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-19402-2022,08-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,2305,2 B/R,,UB-79,85.68,1618.58,,2335000.0,1442.62,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-27678-2022,07-11-2022,Jumeirah Beach Residence,Bahar 2,Apartment,903,3 B/R,9,"M-121, M-135",100.32,2172.07,,2916000.0,1342.5,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-19110-2022,04-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,2707,2 B/R,,LB-94,,1206.97,,1798000.0,1489.68,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-19099-2022,04-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,506,2 B/R,,LB-15,113.02,1276.93,,1748000.0,1368.9,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-27457-2022,04-11-2022,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,4804,3 B/R,48,"B3-076 , B3-077",,4080.2,,9750000.0,2389.59,Al Fattan Proprerties LLC
+Sales - Ready,Sale,Primary,11-27246-2022,03-11-2022,Dubai Marina,Opal Marina Tower,Apartment,801,2 B/R,8,B2-31,234.98,1546.14,,1351500.0,874.11,Mismak Properties
+Sales - Ready,Sale,Primary,11-27356-2022,03-11-2022,Jumeirah Beach Residence,Bahar 2,Apartment,202,1 B/R,2,B-098,183.1,1528.92,,1451817.0,949.57,Dubai Properties
+Sales - Ready,Sale,Primary,11-27361-2022,03-11-2022,Jumeirah Beach Residence,Bahar 2,Apartment,901,3 B/R,9,"B-111, B-112",100.21,2174.22,,2625000.0,1207.33,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-18823-2022,02-11-2022,Dubai Marina,Marina Arcade Tower,Apartment,2503,2 B/R,,LB-26,79.12,1214.93,,1759000.0,1447.82,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-27061-2022,01-11-2022,Dubai Marina,LIV Residence,Apartment,205,1 B/R,2,B1-P38,48.98,864.46,,1649548.0,1908.19,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-26790-2022,31-10-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2002,2 B/R,20,B-114,93.43,1516.54,,1737000.0,1145.37,Dubai Properties
+Sales - Ready,Sale,Primary,11-26659-2022,28-10-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6805,1 B/R,68,B1-144,72.66,809.67,,3800000.0,4693.28,Al Ain Properties
+Sales - Ready,Sale,Primary,11-26492-2022,27-10-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4910,2 B/R,49,"L5R-526, L5R-526 T",223.46,1515.57,,3741365.0,2468.62,Select Group
+Sales - Ready,Sale,Primary,11-26502-2022,27-10-2022,Dubai Marina,Opal Marina Tower,Apartment,2306,1 B/R,23,B3-49,162.0,1064.13,,927668.0,871.76,Mismak Properties
+Sales - Ready,Sale,Primary,11-26464-2022,26-10-2022,Dubai Marina,Opal Marina Tower,Apartment,2406,1 B/R,24,B3-55,162.0,1064.13,,927668.0,871.76,Mismak Properties
+Sales - Ready,Sale,Primary,11-26465-2022,26-10-2022,Dubai Marina,Opal Marina Tower,Apartment,2804,2 B/R,28,B3-77,234.98,1536.35,,1254990.0,816.87,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-18111-2022,25-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,1605,2 B/R,,UB-98,85.68,1618.58,,2054000.0,1269.01,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-18120-2022,25-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,1702,2 B/R,,1F-43,,1075.54,,1506000.0,1400.23,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-18053-2022,24-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,2906,2 B/R,,LB-93,79.12,1243.56,,1899000.0,1527.06,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-26186-2022,24-10-2022,Dubai Marina,LIV Residence,Apartment,1506,2 B/R,15,B1-P09,113.78,1395.23,,3750000.0,2687.73,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-26122-2022,24-10-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2102,2 B/R,21,B-102,93.43,1516.54,,1737000.0,1145.37,Dubai Properties
+Sales - Ready,Sale,Primary,11-26130-2022,24-10-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2202,2 B/R,22,G-093,93.43,1516.54,,1742000.0,1148.67,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-18010-2022,21-10-2022,Jumeirah Beach Residence,One JBR (1 JBR),Apartment,4403,4 B/R,44,"P-019, P-020",465.11,3679.57,,15581000.0,4234.47,Dubai Properties
+Sales - Ready,Sale,Primary,11-25783-2022,20-10-2022,Dubai Marina,Opal Marina Tower,Apartment,1506,1 B/R,15,B3-1,162.0,1064.13,,916000.0,860.8,Mismak Properties
+Sales - Ready,Sale,Primary,11-25859-2022,20-10-2022,Jumeirah Beach Residence,Bahar 2,Apartment,203,3 B/R,2,"G-106, G-107",100.32,2172.07,,2200000.0,1012.86,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-17806-2022,18-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,1408,2 B/R,,UB-103,128.41,1653.24,,2115000.0,1279.3,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-25626-2022,18-10-2022,Dubai Marina,Al Mass Tower,Apartment,902,2 B/R,9,2348,65.01,1545.06,,2500000.0,1618.06,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-25229-2022,14-10-2022,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,4803,2 B/R,48,B3-187,,1599.42,,2300000.0,1438.02,Al Fattan Proprerties LLC
+Sales - Ready,Sale,Primary,11-24703-2022,10-10-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1902,2 B/R,19,B-106,93.43,1516.54,,1735000.0,1144.05,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-17449-2022,09-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,202,1 B/R,,1F-1,,2000.81,,2000800.0,999.99,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-17353-2022,06-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,1204,2 B/R,,UB-7,161.03,1598.67,,1944000.0,1216.01,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-17402-2022,06-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,2303,2 B/R,,LB-25,79.12,1214.29,,1745000.0,1437.06,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-24375-2022,06-10-2022,Dubai Marina,Continental Tower,Apartment,2902,2 B/R,29,B2-45,140.69,1227.85,,1600000.0,1303.09,Dubai Continental Investment Group
+Sales - Ready,Sale,Primary,11-24072-2022,04-10-2022,Dubai Marina,Marina Pinnacle Tower,Apartment,3409,2 B/R,34,B1-329,32.94,1219.02,,971000.0,796.54,Tiger Real Estate
+Sales - Ready,Delayed Sell,Primary,41-17143-2022,03-10-2022,Dubai Marina,Marina Arcade Tower,Apartment,1105,2 B/R,,UB-5,161.03,1596.73,,2185000.0,1368.42,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-23861-2022,30-09-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1601,2 B/R,16,G-108,93.43,1516.54,,1979055.0,1304.98,Dubai Properties
+Sales - Ready,Sale,Primary,11-23799-2022,29-09-2022,Dubai Marina,LIV Residence,Apartment,203,0 B/R,2,,,463.07,,1129548.0,2439.27,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-23199-2022,26-09-2022,Dubai Marina,DEC Twin Towers 2,Apartment,P2-11,0 B/R,P2,G-85,82.99,517.75,,260000.0,502.17,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-22997-2022,22-09-2022,Dubai Marina,Marina Wharf Tower 2,Apartment,1003,2 B/R,10,F1-38,61.89,759.29,,530000.0,698.02,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-22746-2022,20-09-2022,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,5001,4 B/R,50,"B3-139 , B3-140",,3305.19,,5000000.0,1512.77,Al Fattan Proprerties LLC
+Sales - Ready,Sale,Primary,11-22598-2022,19-09-2022,Dubai Marina,Marina Wharf Tower 2,Apartment,2702,3 B/R,27,F1-47,194.61,1388.34,,694000.0,499.88,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-22577-2022,19-09-2022,Dubai Marina,Orra Harbour Tower 1,Serviced/Hotel Apartment,505,1 B/R,,B2-163,100.32,597.29,,1240000.0,2076.03,Hector Holdings
+Sales - Ready,Sale,Primary,11-22615-2022,19-09-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7109,1 B/R,71,B1-323,176.31,1142.38,,3566411.0,3121.9,Al Ain Properties
+Sales - Ready,Lease to Own Registration,Primary,110-402-2022,15-09-2022,Jumeirah Beach Residence,Bahar 2,Apartment,103,3 B/R,1,"M-110, M-111",100.32,2172.07,,1067500.0,491.47,Dubai Properties
+Sales - Ready,Sale,Primary,11-21883-2022,12-09-2022,Dubai Marina,Azure,Apartment,315,3 B/R,3,B1-315,143.05,2028.91,,1600000.0,788.6,Bonyan Emirates Properties
+Sales - Ready,Sale,Primary,11-21838-2022,09-09-2022,Dubai Marina,Al Majara Tower 2,Apartment,2701,1 B/R,27,366,48.01,971.02,,1350000.0,1390.29,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-21869-2022,09-09-2022,Dubai Marina,Ocean Heights Tower,Apartment,4502,2 B/R,45,P3-88,151.02,1315.04,,1420000.0,1079.82,Damac Properties
+Sales - Ready,Sale,Primary,11-21029-2022,31-08-2022,Dubai Marina,Cayan Tower,Apartment,606,0 B/R,6,M-359,,726.03,,950000.0,1308.48,Cayan Investment & Development
+Sales - Ready,Delayed Sell,Primary,41-15164-2022,29-08-2022,Dubai Marina,Marina Arcade Tower,Apartment,3003,1 B/R,,1F-60,,868.22,,1280000.0,1474.27,Marina Arcade Real Estate LLC
+Sales - Ready,Delayed Sell,Primary,41-15011-2022,25-08-2022,Dubai Marina,52-42 Tower 2,Apartment,706,2 B/R,7,3F-102,107.75,1116.66,,2630888.0,2356.04,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-20447-2022,25-08-2022,Dubai Marina,Opal Marina Tower,Apartment,1901,2 B/R,19,B3-20,234.98,1546.14,,1358000.0,878.32,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-14839-2022,23-08-2022,Dubai Marina,Marina Arcade Tower,Apartment,3006,3 B/R,,"LB-28, LB-29",171.26,2403.06,,3100000.0,1290.02,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-19785-2022,18-08-2022,Dubai Marina,Opal Marina Tower,Apartment,1302,2 B/R,13,B2-62,234.98,1546.14,,1430800.0,925.4,Mismak Properties
+Sales - Ready,Sale,Primary,11-19726-2022,17-08-2022,Dubai Marina,Opal Marina Tower,Apartment,1802,2 B/R,18,B3-15,234.98,1546.14,,1355000.0,876.38,Mismak Properties
+Sales - Ready,Sale,Primary,11-19727-2022,17-08-2022,Dubai Marina,Opal Marina Tower,Apartment,901,2 B/R,9,B2-37,234.98,1546.14,,1361300.0,880.45,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-14245-2022,16-08-2022,Dubai Marina,Marina Arcade Tower,Apartment,4005,1 B/R,,G-26,42.84,726.57,,1212436.0,1668.71,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-19212-2022,11-08-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1402,1 B/R,14,G-109,183.1,1528.92,,1485000.0,971.27,Dubai Properties
+Sales - Ready,Sale,Primary,11-19201-2022,11-08-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2104,2 B/R,21,G-110,93.43,1516.54,,1795000.0,1183.62,Dubai Properties
+Sales - Ready,Sale,Primary,11-19211-2022,11-08-2022,Jumeirah Beach Residence,Bahar 2,Apartment,502,1 B/R,5,M-116,183.1,1528.92,,1406000.0,919.6,Dubai Properties
+Sales - Ready,Sale,Primary,11-18888-2022,09-08-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7107,3 B/R,71,"B1-345,B1-346",145.96,1867.55,,5838933.0,3126.51,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-13420-2022,05-08-2022,Dubai Marina,Damac Heights,Apartment,5303,2 B/R,53,P4-68,276.2,1706.85,,3921000.0,2297.22,Damac Properties
+Sales - Ready,Sale,Primary,11-18479-2022,04-08-2022,Dubai Marina,Opal Marina Tower,Apartment,2102,2 B/R,21,B3-33,234.98,1546.14,,1458800.0,943.51,Mismak Properties
+Sales - Ready,Sale,Primary,11-18444-2022,03-08-2022,Dubai Marina,Opal Marina Tower,Apartment,1702,2 B/R,17,B3-9,234.98,1546.14,,1410400.0,912.21,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-12968-2022,01-08-2022,Dubai Marina,Damac Heights,Apartment,1201,1 B/R,12,B5-57,,1225.7,,1979000.0,1614.59,Damac Properties
+Sales - Ready,Sale,Primary,11-18173-2022,01-08-2022,Jumeirah Beach Residence,Bahar 2,Apartment,UP04,1 B/R,UP,G-115,188.05,1519.77,,1295000.0,852.1,Dubai Properties
+Sales - Ready,Sale,Primary,11-17664-2022,26-07-2022,Dubai Marina,The Zen Tower,Apartment,1101,3 B/R,11,B-26,340.03,1764.87,,1188256.0,673.28,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-17494-2022,25-07-2022,Dubai Marina,Panoramic Tower,Apartment,GT1,3 B/R,G,B1-T1,,4787.29,,3617349.0,755.62,Bonyan Emirates Properties
+Sales - Ready,Sale,Primary,11-16847-2022,18-07-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2901,2 B/R,29,B1-89,148.22,1218.48,,2408740.0,1976.83,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16657-2022,15-07-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2906,2 B/R,29,B1-92,148.33,1223.97,,2419000.0,1976.35,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16504-2022,14-07-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2801,2 B/R,28,B1-90,156.19,1008.48,,2008000.0,1991.12,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16613-2022,14-07-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2807,1 B/R,28,B1-109,126.69,693.96,,1387000.0,1998.69,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16503-2022,14-07-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2902,2 B/R,29,B1-91,226.04,1008.37,,2008000.0,1991.33,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16611-2022,14-07-2022,Dubai Marina,Sparkle Towers (Swarovski Towers),Apartment,,2 B/R,,B1-107,,1183.29,,2361000.0,1995.29,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16612-2022,14-07-2022,Dubai Marina,Sparkle Towers (Swarovski Towers),Apartment,,2 B/R,,B1-110,,1181.13,,2356000.0,1994.69,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16367-2022,13-07-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2405,3 B/R,24,B3-156,169.64,1882.62,,2918066.0,1550.0,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-16230-2022,07-07-2022,Dubai Marina,Opal Marina Tower,Apartment,701,2 B/R,7,B2-25,234.98,1546.14,,1322930.0,855.63,Mismak Properties
+Sales - Ready,Sale,Primary,11-16149-2022,07-07-2022,Dubai Marina,Opal Marina Tower,Apartment,703,1 B/R,7,B2-27,162.0,1064.13,,830000.0,779.98,Mismak Properties
+Sales - Ready,Sale,Primary,11-16207-2022,07-07-2022,Jumeirah Beach Residence,Bahar 2,Apartment,703,3 B/R,7,"B-147, B-148",100.32,2172.07,,2680000.0,1233.85,Dubai Properties
+Sales - Ready,Sale,Primary,11-16099-2022,06-07-2022,Dubai Marina,Opal Marina Tower,Apartment,2704,2 B/R,27,B3-71,234.98,1536.67,,1241600.0,807.98,Mismak Properties
+Sales - Ready,Sale,Primary,11-15535-2022,04-07-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2802,1 B/R,28,B1-108,126.69,694.71,,1389000.0,1999.4,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-15558-2022,04-07-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6102,1 B/R,61,B2-275,,628.83,,2850000.0,4532.21,Al Ain Properties
+Sales - Ready,Sale,Primary,11-15345-2022,30-06-2022,Dubai Marina,LIV Residence,Apartment,1102,2 B/R,11,B1-P37,169.64,1357.77,,2849548.0,2098.7,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-15356-2022,30-06-2022,Dubai Marina,LIV Residence,Apartment,1402,2 B/R,14,B1-P36,169.64,1417.94,,2999548.0,2115.42,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-15060-2022,29-06-2022,Dubai Marina,Sparkle Tower B,Apartment,2-103,2 B/R,1,B1-03,885.66,1913.19,,1683000.0,879.68,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-15053-2022,29-06-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5001,1 B/R,50,B2-245,60.28,737.44,,3400000.0,4610.53,Al Ain Properties
+Sales - Ready,Sale,Primary,11-15052-2022,29-06-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6503,2 B/R,65,B2-097,286.43,1816.64,,7000000.0,3853.27,Al Ain Properties
+Sales - Ready,Sale,Primary,11-14661-2022,24-06-2022,Jumeirah Beach Residence,Bahar 2,Apartment,501,3 B/R,5,"G-116, G117",100.21,2174.22,,2600000.0,1195.83,Dubai Properties
+Sales - Ready,Sale,Primary,11-14429-2022,22-06-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1802,2 B/R,18,G-113,93.43,1516.54,,1650000.0,1088.0,Dubai Properties
+Sales - Ready,Lease to Own Registration,Primary,110-219-2022,17-06-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2604,PENTHOUSE,26,M-106,,3206.49,,1342500.0,418.68,Dubai Properties
+Sales - Ready,Sale,Primary,11-13898-2022,17-06-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4301,1 B/R,43,B2-144,60.28,737.44,,2860000.0,3878.27,Al Ain Properties
+Sales - Ready,Sale,Primary,11-13619-2022,16-06-2022,Dubai Marina,Opal Marina Tower,Apartment,1001,2 B/R,10,B2-43,234.98,1546.14,,1336300.0,864.28,Mismak Properties
+Sales - Ready,Sale,Primary,11-13622-2022,16-06-2022,Dubai Marina,Opal Marina Tower,Apartment,1002,2 B/R,10,B2-44,234.98,1546.14,,1336300.0,864.28,Mismak Properties
+Sales - Ready,Sale,Primary,11-13482-2022,15-06-2022,Dubai Marina,Opal Marina Tower,Apartment,2506,1 B/R,25,B3-61,162.0,1064.13,,946600.0,889.55,Mismak Properties
+Sales - Ready,Sale,Primary,11-13536-2022,15-06-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2304,3 B/R,23,B3-148,215.39,1874.34,,2905000.0,1549.88,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-13535-2022,15-06-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2404,3 B/R,24,B3-155,215.39,1874.34,,2905219.75,1550.0,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-13461-2022,15-06-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7101,4 B/R,71,"B1-297 , B1-139",341.11,3058.91,,9391482.0,3070.2,Al Ain Properties
+Sales - Ready,Sale,Primary,11-13463-2022,15-06-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7108,2 B/R,71,B1-097,101.61,1158.96,,3660438.0,3158.38,Al Ain Properties
+Sales - Ready,Sale,Primary,11-13455-2022,14-06-2022,Dubai Marina,Opal Marina Tower,Apartment,2002,2 B/R,20,B3-27,234.98,1546.14,,1425400.0,921.91,Mismak Properties
+Sales - Ready,Sale,Primary,11-13457-2022,14-06-2022,Dubai Marina,Opal Marina Tower,Apartment,2402,2 B/R,24,B3-51,234.98,1546.14,,1429624.0,924.64,Mismak Properties
+Sales - Ready,Sale,Primary,11-13456-2022,14-06-2022,Dubai Marina,Opal Marina Tower,Apartment,2605,2 B/R,26,B3-66,234.98,1536.35,,1298696.0,845.31,Mismak Properties
+Sales - Ready,Sale,Primary,11-12901-2022,09-06-2022,Dubai Marina,Sparkle Tower B,Apartment,2-1307,1 B/R,13,B3-94,200.43,962.84,,1750000.0,1817.54,Tebyan Real Estate Clarity
+Sales - Ready,Lease to Own Registration,Primary,110-203-2022,08-06-2022,Dubai Marina,The Residences at Marina Gate 2,Apartment,3501,3 B/R,35,"L4-40, L4-40T",216.03,1810.07,,2125000.0,1173.98,Select Group
+Sales - Ready,Sale,Primary,11-12679-2022,07-06-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,906,0 B/R,9,EU,,416.03,,1395000.0,3353.13,The First Group
+Sales - Ready,Delayed Sell,Primary,41-9483-2022,03-06-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,2204,0 B/R,22,EU,74.81,409.68,,1433015.0,3497.91,The First Group
+Sales - Ready,Sale,Primary,11-11958-2022,01-06-2022,Jumeirah Beach Residence,Rimal 4,Apartment,304,0 B/R,3,M280,54.04,699.44,,299000.0,427.48,Dubai Properties
+Sales - Ready,Sale,Primary,11-11956-2022,01-06-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5504,4 B/R,55,"B2-370,B2-370A",151.99,2555.05,,11000000.0,4305.2,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11911-2022,31-05-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1604,2 B/R,16,M-112,93.43,1516.54,,1650000.0,1088.0,Dubai Properties
+Sales - Ready,Sale,Primary,11-11904-2022,31-05-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1801,2 B/R,18,M-107,93.43,1516.54,,2073249.0,1367.09,Dubai Properties
+Sales - Ready,Sale,Primary,11-11876-2022,31-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3901,1 B/R,39,B2-221,59.63,740.67,,2562000.0,3459.03,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-9132-2022,30-05-2022,Dubai Marina,Damac Heights,Apartment,5104,3 B/R,51,P4-54,305.27,1905.55,,4308000.0,2260.76,Damac Properties
+Sales - Ready,Sale,Primary,11-11721-2022,30-05-2022,Dubai Marina,Al Sahab 2,Apartment,503,2 B/R,5,126,206.02,1588.01,,2180000.0,1372.78,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-11694-2022,30-05-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2204,3 B/R,22,B3-145,215.39,1874.34,,2905000.0,1549.88,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-11695-2022,30-05-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2301,3 B/R,23,B3-128,207.21,1860.88,,2884364.5,1550.0,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-11693-2022,30-05-2022,Dubai Marina,Sparkle Tower B,Apartment,2-106,0 B/R,1,B1-06,,357.8,,780000.0,2180.02,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-11595-2022,30-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5501,3 B/R,55,"B3-323,B3-324",143.16,1940.43,,8000000.0,4122.81,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11699-2022,30-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5502,2 B/R,55,B3-157,174.48,1477.25,,6500000.0,4400.06,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11596-2022,30-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5503,2 B/R,55,B3-051,102.69,1161.54,,5500000.0,4735.08,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11597-2022,30-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5505,2 B/R,55,B1-005,73.63,1148.95,,4500000.0,3916.62,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11598-2022,30-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5506,2 B/R,55,B3-154,,1133.45,,4500000.0,3970.18,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11599-2022,30-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2801,1 B/R,28,B2-343,59.63,740.67,,3295000.0,4448.67,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11133-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,308,1 B/R,3,B3-428,59.2,731.74,,2150000.0,2938.22,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11162-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4604,4 B/R,46,"B3-307,B3-308",151.99,2555.05,,10500000.0,4109.51,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11218-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4804,4 B/R,48,"B3-089,B3-090",151.99,2555.05,,9335000.0,3653.55,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11151-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6905,2 B/R,69,B3-295,,1197.28,,3125000.0,2610.08,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11161-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2303,1 B/R,23,B2-413,74.59,809.24,,3430000.0,4238.56,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11148-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3002,1 B/R,30,B1-032,,623.67,,2114500.0,3390.44,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11136-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3202,1 B/R,32,B1-320,,623.67,,2626000.0,4210.59,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11145-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4502,1 B/R,45,B2-141,,626.25,,2750000.0,4391.22,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11149-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5302,1 B/R,53,B2-347,,626.25,,2631000.0,4201.2,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11118-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5304,1 B/R,53,B2-348,82.24,704.61,,2820000.0,4002.21,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11139-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6003,1 B/R,60,B2-276,72.66,810.42,,2940000.0,3627.74,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11138-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6103,1 B/R,61,B1-377,72.66,810.42,,2942000.0,3630.21,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11147-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6404,2 B/R,64,B2-354,101.18,1491.68,,4381000.0,2936.97,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11146-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6505,1 B/R,65,B1-007,72.66,809.67,,3600000.0,4446.27,Al Ain Properties
+Sales - Ready,Sale,Primary,11-11144-2022,25-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6705,1 B/R,67,B1-142,72.66,809.67,,2890000.0,3569.36,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-8584-2022,23-05-2022,Dubai Marina,Damac Heights,Apartment,4904,3 B/R,49,P4-40,306.99,1922.45,,3133000.0,1629.69,Damac Properties
+Sales - Ready,Sale,Primary,11-10750-2022,22-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4702,1 B/R,47,B2-225,,626.25,,2175000.0,3473.06,Al Ain Properties
+Sales - Ready,Lease to Own Registration,Primary,110-167-2022,19-05-2022,Dubai Marina,Opal Marina Tower,Apartment,402,2 B/R,4,B2-8,234.98,1546.14,,637500.0,412.32,Mismak Properties
+Sales - Ready,Sale,Primary,11-10478-2022,19-05-2022,Dubai Marina,Sparkle Tower B,Apartment,2-102,1 B/R,1,B1-02,688.14,1409.33,,1100000.0,780.51,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-10566-2022,19-05-2022,Dubai Marina,Sparkle Tower B,Apartment,2-503,2 B/R,5,B2-12,832.92,2123.31,,1912180.0,900.57,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-10162-2022,17-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3902,1 B/R,39,B2-223,,623.67,,2135000.0,3423.31,Al Ain Properties
+Sales - Ready,Sale,Primary,11-10163-2022,17-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3903,1 B/R,39,B2-220,74.59,809.24,,2665000.0,3293.22,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-8074-2022,13-05-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1307,0 B/R,13,EU,,339.71,,1650000.0,4857.06,The First Group
+Sales - Ready,Delayed Sell,Primary,41-8076-2022,13-05-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1608,0 B/R,16,EU,29.28,614.52,,1466000.0,2385.61,The First Group
+Sales - Ready,Delayed Sell,Primary,41-8088-2022,13-05-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,415,0 B/R,4,EU,,337.13,,1095000.0,3248.02,The First Group
+Sales - Ready,Delayed Sell,Primary,41-7971-2022,12-05-2022,Dubai Marina,Damac Heights,Apartment,5406,3 B/R,54,P3-05,267.92,2168.62,,3437680.0,1585.19,Damac Properties
+Sales - Ready,Sale,Primary,11-9893-2022,12-05-2022,Dubai Marina,Opal Marina Tower,Apartment,2401,2 B/R,24,B3-50,234.98,1546.14,,1429000.0,924.24,Mismak Properties
+Sales - Ready,Sale,Primary,11-9902-2022,12-05-2022,Dubai Marina,Opal Marina Tower,Apartment,302,2 B/R,3,B2-2,658.0,1988.86,,1642707.0,825.95,Mismak Properties
+Sales - Ready,Sale,Primary,11-9896-2022,12-05-2022,Dubai Marina,Opal Marina Tower,Apartment,503,1 B/R,5,B2-15,162.0,1064.13,,857500.0,805.82,Mismak Properties
+Sales - Ready,Sale,Primary,11-9744-2022,11-05-2022,Dubai Marina,Sparkle Tower B,Apartment,2-204,2 B/R,2,B1-13,229.7,1519.98,,1855000.0,1220.41,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-9846-2022,11-05-2022,Jumeirah Beach Residence,Sadaf 1,Apartment,1806,3 B/R,18,B522/ B618,42.95,1896.72,,699000.0,368.53,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-7847-2022,10-05-2022,Dubai Marina,Damac Heights,Apartment,1110,2 B/R,11,B5-56,109.36,1424.83,,2677000.0,1878.82,Damac Properties
+Sales - Ready,Sale,Primary,11-9632-2022,10-05-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2001,2 B/R,20,B-129,93.43,1516.54,,2105000.0,1388.03,Dubai Properties
+Sales - Ready,Sale,Primary,11-9657-2022,10-05-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2101,2 B/R,21,B-095,93.43,1516.54,,2116000.0,1395.28,Dubai Properties
+Sales - Ready,Sale,Primary,11-9601-2022,10-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3701,1 B/R,37,B2-213,59.63,740.67,,3024000.0,4082.79,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9509-2022,09-05-2022,Dubai Marina,Marina View Towers A,Apartment,109,,1,B1/15&16,248.97,2488.21,,2700000.0,1085.12,New City Developers
+Sales - Ready,Sale,Primary,11-9572-2022,09-05-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6402,2 B/R,64,B2-355,286.11,1798.88,,5072000.0,2819.53,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9270-2022,28-04-2022,Dubai Marina,LIV Residence,Apartment,302,0 B/R,3,B1-P41,50.7,499.34,,1081548.0,2165.95,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-9211-2022,28-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4904,4 B/R,49,"B3-315,B3-315A",151.99,2555.05,,8372000.0,3276.65,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9274-2022,28-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4802,1 B/R,48,B2-229,,626.25,,2488000.0,3972.86,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9295-2022,28-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5704,1 B/R,57,B2-286,82.24,704.61,,2454000.0,3482.77,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-7445-2022,27-04-2022,Dubai Marina,Al Majara Tower 5,Apartment,M04,1 B/R,M,346,86.0,1150.99,,1330888.0,1156.29,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-9119-2022,27-04-2022,Dubai Marina,Marina Pearl,Apartment,G01,1 B/R,G,L-03,,730.98,,490000.0,670.33,Jogi International Holdings
+Sales - Ready,Sale,Primary,11-9065-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3801,1 B/R,38,B2-192,59.63,740.67,,3046000.0,4112.49,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9209-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3904,1 B/R,39,B2-222,82.34,704.07,,2370000.0,3366.13,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9032-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4704,1 B/R,47,B2-226,82.24,704.61,,2750000.0,3902.86,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9064-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5202,1 B/R,52,B2-256,,626.25,,2566000.0,4097.41,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9038-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5301,1 B/R,53,B2-349,60.28,737.44,,2965000.0,4020.66,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9033-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6304,1 B/R,63,B1-002,81.05,696.65,,2712000.0,3892.94,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9063-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6504,2 B/R,65,B2-189,101.18,1491.68,,5462000.0,3661.66,Al Ain Properties
+Sales - Ready,Sale,Primary,11-9037-2022,27-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7003,2 B/R,70,B1-096,286.54,1791.24,,6500000.0,3628.78,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8925-2022,26-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4002,1 B/R,40,B2-219,,623.67,,2182700.0,3499.79,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8795-2022,25-04-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1603,2 B/R,16,B-128,93.43,1516.54,,1800000.0,1186.91,Dubai Properties
+Sales - Ready,Sale,Primary,11-8764-2022,25-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,1608,1 B/R,16,B3-408,58.88,742.39,,2537500.0,3418.0,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8757-2022,23-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4902,1 B/R,49,B2-233,,626.25,,2357000.0,3763.68,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8756-2022,23-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6104,1 B/R,61,B1-379,81.05,696.65,,2590000.0,3717.81,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8758-2022,23-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6605,1 B/R,66,B2-088,72.66,809.67,,3069000.0,3790.44,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8723-2022,22-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6506,1 B/R,65,B1-006,81.16,696.75,,2423000.0,3477.56,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8487-2022,21-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5404,1 B/R,54,B2-352,82.24,704.61,,2696700.0,3827.22,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-7028-2022,20-04-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,2601,0 B/R,26,EU,29.28,614.52,,1700000.0,2766.4,The First Group
+Sales - Ready,Sale,Primary,11-8432-2022,20-04-2022,Jumeirah Beach Residence,Bahar 2,Apartment,2103,2 B/R,21,M-115,93.43,1516.54,,1500000.0,989.09,Dubai Properties
+Sales - Ready,Sale,Primary,11-8388-2022,20-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4601,1 B/R,46,B2-111,60.28,737.44,,2594400.0,3518.11,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-6924-2022,19-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3103,1 B/R,31,B1-129,74.59,809.24,,2634000.0,3254.92,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-6923-2022,19-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6001,1 B/R,60,B2-277,62.0,749.28,,2730800.0,3644.56,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-6971-2022,19-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7005,1 B/R,70,B1-328,72.76,808.48,,2920000.0,3611.7,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8259-2022,19-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4701,1 B/R,47,B2-227,60.28,737.44,,2848000.0,3862.0,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8261-2022,19-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5504,1 B/R,55,B2-337,82.24,704.61,,2530000.0,3590.63,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8134-2022,18-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3703,1 B/R,37,B2-214,74.59,809.24,,2700000.0,3336.47,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8159-2022,18-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4904,1 B/R,49,B2-250,82.24,704.61,,2378500.0,3375.62,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8133-2022,18-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6204,1 B/R,62,B1-375,81.05,696.65,,2670000.0,3832.65,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8178-2022,18-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6602,2 B/R,66,B1-134,286.11,1798.88,,5210000.0,2896.25,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8154-2022,18-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6702,2 B/R,67,B1-334,286.11,1798.88,,5245000.0,2915.7,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8248-2022,18-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6804,2 B/R,68,B1-313,72.01,1464.55,,5240000.0,3577.89,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8169-2022,18-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6906,1 B/R,69,B1-146,81.81,696.75,,2457000.0,3526.35,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8126-2022,17-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2701,1 B/R,27,B2-398,59.63,740.67,,2522900.0,3406.24,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8125-2022,17-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2703,1 B/R,27,B2-344,74.59,809.24,,2796000.0,3455.1,Al Ain Properties
+Sales - Ready,Sale,Primary,11-7915-2022,14-04-2022,Dubai Marina,Opal Marina Tower,Apartment,1402,2 B/R,14,B2-68,234.98,1546.14,,1340000.0,866.67,Mismak Properties
+Sales - Ready,Sale,Primary,11-7917-2022,14-04-2022,Dubai Marina,Opal Marina Tower,Apartment,2005,2 B/R,20,B3-30,234.98,1536.35,,1242182.0,808.53,Mismak Properties
+Sales - Ready,Sale,Primary,11-7901-2022,14-04-2022,Dubai Marina,Opal Marina Tower,Apartment,2106,1 B/R,21,B3-37,162.0,1064.13,,946600.0,889.55,Mismak Properties
+Sales - Ready,Sale,Primary,11-8017-2022,14-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6903,2 B/R,69,B1-121,286.43,1789.62,,5545000.0,3098.42,Al Ain Properties
+Sales - Ready,Sale,Primary,11-8018-2022,14-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6904,2 B/R,69,B1-122,72.01,1464.55,,4482000.0,3060.33,Al Ain Properties
+Sales - Ready,Sale,Primary,11-7898-2022,13-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6803,2 B/R,68,B1-124,286.43,1789.62,,5400000.0,3017.4,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-6468-2022,11-04-2022,Dubai Marina,Damac Heights,Apartment,7501,3 B/R,75,"P1-09 , P2-33",69.0,2194.35,,3379000.0,1539.86,Damac Properties
+Sales - Ready,Sale,Primary,11-7592-2022,11-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2601,1 B/R,26,B2-402,59.63,740.67,,2519500.0,3401.65,Al Ain Properties
+Sales - Ready,Sale,Primary,11-7615-2022,11-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4901,1 B/R,49,B2-249,60.28,737.44,,2893500.0,3923.7,Al Ain Properties
+Sales - Ready,Sale,Primary,11-7577-2022,11-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5402,1 B/R,54,B2-351,,626.25,,2188400.0,3494.45,Al Ain Properties
+Sales - Ready,Sale,Primary,11-7568-2022,11-04-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6002,1 B/R,60,B2-279,,628.83,,2500000.0,3975.62,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-6179-2022,06-04-2022,Dubai Marina,Damac Heights,Apartment,7502,4 B/R,75,"P2-65 , P2-T3",,1956.25,,2918000.0,1491.63,Damac Properties
+Sales - Ready,Sale,Primary,11-7140-2022,06-04-2022,Dubai Marina,LIV Residence,Apartment,1201,1 B/R,12,B2-P15,48.87,805.69,,1675548.0,2079.66,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-7125-2022,05-04-2022,Dubai Marina,La Riviera Tower,Apartment,1102,3 B/R,11,B1-15,73.95,1824.07,,1638000.0,897.99,B&M Riviera Developments
+Sales - Ready,Delayed Sell,Primary,41-5842-2022,01-04-2022,Dubai Marina,Damac Heights,Apartment,3407,2 B/R,34,B2-56,268.35,1882.09,,2414330.0,1282.8,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-5731-2022,31-03-2022,Dubai Marina,52-42 Tower 1,Apartment,1605,2 B/R,16,3F-056,107.64,1134.85,,2095594.0,1846.58,Emaar Properties PJSC
+Sales - Ready,Delayed Sell,Primary,41-5790-2022,31-03-2022,Dubai Marina,Marina Arcade Tower,Apartment,2501,1 B/R,,1F-55,42.84,801.49,,1260000.0,1572.08,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-6382-2022,29-03-2022,Dubai Marina,Opal Marina Tower,Apartment,1501,2 B/R,15,B2-73,234.98,1546.14,,1380800.0,893.06,Mismak Properties
+Sales - Ready,Sale,Primary,11-6383-2022,29-03-2022,Dubai Marina,Opal Marina Tower,Apartment,1502,2 B/R,15,B2-74,234.98,1546.14,,1380800.0,893.06,Mismak Properties
+Sales - Ready,Sale,Primary,11-6384-2022,29-03-2022,Dubai Marina,Opal Marina Tower,Apartment,1606,1 B/R,16,B3-7,162.0,1064.13,,830000.0,779.98,Mismak Properties
+Sales - Ready,Sale,Primary,11-6385-2022,29-03-2022,Dubai Marina,Opal Marina Tower,Apartment,2606,1 B/R,26,B3-67,162.0,1064.13,,927668.0,871.76,Mismak Properties
+Sales - Ready,Sale,Primary,11-6386-2022,29-03-2022,Dubai Marina,Opal Marina Tower,Apartment,2706,1 B/R,27,B3-73,162.0,1064.13,,946600.0,889.55,Mismak Properties
+Sales - Ready,Delayed Sell,Primary,41-5519-2022,28-03-2022,Dubai Marina,52-42 Tower 1,Apartment,1003,2 B/R,10,4F-058,69.75,1122.69,,2442888.0,2175.93,Emaar Properties PJSC
+Sales - Ready,Delayed Sell,Primary,41-5265-2022,24-03-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,218,0 B/R,2,EU,149.19,664.57,,2182460.0,3284.02,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5264-2022,24-03-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,302,1 B/R,3,EU,33.48,720.54,,1991988.0,2764.57,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5259-2022,24-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,710,0 B/R,7,EU,,333.58,,1246100.0,3735.58,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5333-2022,24-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,715,0 B/R,7,EU,,339.71,,1580150.0,4651.44,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5233-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1107,0 B/R,11,EU,,339.71,,1429350.0,4207.54,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5239-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1206,1 B/R,12,EU,,442.83,,1561290.0,3525.7,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5234-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1406,1 B/R,14,EU,,442.83,,1264425.0,2855.32,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5184-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,2513,0 B/R,25,EU,74.7,409.57,,1391958.0,3398.58,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5237-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,3004,0 B/R,30,EU,113.24,448.11,,1521649.0,3395.74,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5238-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,501,0 B/R,5,EU,29.28,612.47,,1350000.0,2204.18,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5235-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,508,0 B/R,5,EU,29.28,612.47,,1502650.0,2453.42,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5232-2022,23-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,802,0 B/R,8,EU,,339.71,,1354624.0,3987.57,The First Group
+Sales - Ready,Sale,Primary,11-5995-2022,23-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6606,2 B/R,66,B3-359,,1203.52,,2857000.0,2373.86,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-5003-2022,22-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,102,0 B/R,1,EU,,337.13,,1227775.0,3641.86,The First Group
+Sales - Ready,Delayed Sell,Primary,41-5004-2022,22-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,703,1 B/R,7,EU,,442.83,,1439572.0,3250.84,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4824-2022,21-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1613,0 B/R,16,EU,74.7,409.57,,1230604.0,3004.62,The First Group
+Sales - Ready,Sale,Primary,11-5571-2022,18-03-2022,Dubai Marina,Sparkle Tower A,Apartment,1-105,2 B/R,1,B3-53,471.25,1740.22,,2089000.0,1200.43,Tebyan Real Estate Clarity
+Sales - Ready,Delayed Sell,Primary,41-4615-2022,16-03-2022,Dubai Marina,Damac Heights,Apartment,4703,2 B/R,47,P4-22,276.2,1707.17,,2341580.0,1371.61,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-4512-2022,16-03-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,1921,0 B/R,19,EU,70.83,422.27,,1809500.0,4285.16,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4568-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1209,0 B/R,12,EU,29.28,609.78,,1615629.0,2649.53,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4565-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1211,1 B/R,12,EU,,442.83,,1392700.0,3144.99,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4569-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1315,0 B/R,13,EU,,339.71,,1411545.0,4155.12,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4564-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1601,0 B/R,16,EU,29.28,614.52,,1445629.0,2352.46,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4562-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1906,1 B/R,19,EU,,442.83,,1411652.0,3187.79,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4558-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,2207,0 B/R,22,EU,,339.71,,1044525.0,3074.74,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4537-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,2714,1 B/R,27,EU,,442.83,,1375000.0,3105.02,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4563-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,309,0 B/R,3,EU,29.28,608.6,,1509716.0,2480.65,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4561-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,406,1 B/R,4,EU,,441.65,,1403695.0,3178.32,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4560-2022,16-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,610,0 B/R,6,EU,,333.58,,1354626.0,4060.92,The First Group
+Sales - Ready,Delayed Sell,Primary,41-4588-2022,16-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,7004,2 B/R,70,B1-095,70.93,1462.29,,4287200.0,2931.84,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5324-2022,16-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,2508,1 B/R,25,B3-394,58.88,742.39,,2554000.0,3440.23,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5264-2022,16-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6606,1 B/R,66,B1-349,81.16,696.75,,2467500.0,3541.42,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-4388-2022,15-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5003,1 B/R,50,B2-251,73.63,809.78,,2720000.0,3358.95,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5219-2022,15-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,3008,1 B/R,30,B3-215,58.88,742.39,,2560000.0,3448.31,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5207-2022,15-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3508,3 B/R,35,"B2-300,B2-301",145.85,1923.85,,7621500.0,3961.59,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5146-2022,15-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4503,1 B/R,45,B2-114,73.63,809.78,,2670000.0,3297.21,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5145-2022,15-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5702,1 B/R,57,B2-285,,626.25,,2190000.0,3497.01,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5003-2022,14-03-2022,Dubai Marina,Marina Heights Tower,Apartment,4305,3 B/R,43,P3-31,541.43,2208.34,,2250000.0,1018.86,SRG Properties
+Sales - Ready,Sale,Primary,11-5029-2022,14-03-2022,Dubai Marina,Opal Marina Tower,Apartment,1004,2 B/R,10,B2-46,234.98,1536.67,,1131100.0,736.07,Mismak Properties
+Sales - Ready,Sale,Primary,11-5049-2022,14-03-2022,Dubai Marina,Opal Marina Tower,Apartment,1206,1 B/R,12,B2-60,162.0,1064.13,,850000.0,798.78,Mismak Properties
+Sales - Ready,Sale,Primary,11-5110-2022,14-03-2022,Dubai Marina,Opal Marina Tower,Apartment,2006,1 B/R,20,B3-31,162.0,1064.13,,870000.0,817.57,Mismak Properties
+Sales - Ready,Sale,Primary,11-5043-2022,14-03-2022,Dubai Marina,Opal Marina Tower,Apartment,2202,2 B/R,22,B3-39,234.98,1546.14,,1432000.0,926.18,Mismak Properties
+Sales - Ready,Sale,Primary,11-5019-2022,14-03-2022,Dubai Marina,Opal Marina Tower,Apartment,2702,2 B/R,27,B3-69,234.98,1546.14,,1407000.0,910.01,Mismak Properties
+Sales - Ready,Sale,Primary,11-5050-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3501,1 B/R,35,B2-198,59.63,740.67,,2467500.0,3331.44,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5063-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3502,1 B/R,35,B2-200,,623.67,,2040000.0,3270.98,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4980-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3503,1 B/R,35,B2-197,74.59,809.24,,2585000.0,3194.36,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4982-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3504,1 B/R,35,B2-199,82.34,704.07,,2218000.0,3150.24,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5064-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3505,3 B/R,35,"B2-267,B2-267A",146.61,1864.97,,7439500.0,3989.07,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5065-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3506,2 B/R,35,B2-178,104.41,1168.97,,4796500.0,4103.18,Al Ain Properties
+Sales - Ready,Sale,Primary,11-5066-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3507,2 B/R,35,B2-177,175.78,1473.16,,5832000.0,3958.83,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4996-2022,14-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6603,2 B/R,66,B1-138,286.43,1816.64,,5235000.0,2881.69,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4889-2022,11-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4504,4 B/R,45,"B3-305,B3-306",151.99,2555.05,,8072000.0,3159.23,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-4081-2022,10-03-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,1821,0 B/R,18,EU,70.83,422.27,,1500000.0,3552.22,The First Group
+Sales - Ready,Sale,Primary,11-4759-2022,10-03-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3607,1 B/R,36,L4R-415,43.27,945.19,,1792778.0,1896.74,Select Group
+Sales - Ready,Sale,Primary,11-4757-2022,10-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3204,1 B/R,32,B1-092,82.34,704.07,,2367500.0,3362.58,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4758-2022,10-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3205,3 B/R,32,"B1-116,B1-117",146.61,1864.97,,7414000.0,3975.4,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-3955-2022,09-03-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,908,0 B/R,9,EU,85.9,438.31,,1715632.0,3914.2,The First Group
+Sales - Ready,Delayed Sell,Primary,41-3956-2022,09-03-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,3012,0 B/R,30,EU,113.24,448.11,,1484999.0,3313.95,The First Group
+Sales - Ready,Sale,Primary,11-4616-2022,09-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3802,1 B/R,38,B2-215,,623.67,,2125000.0,3407.27,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-3895-2022,08-03-2022,Dubai Marina,52-42 Tower 2,Apartment,2702,3 B/R,27,"3F-089, 3F-090",180.51,1776.71,,3670888.0,2066.12,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-4391-2022,07-03-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,818,0 B/R,8,EU,,351.23,,1550000.0,4413.07,The First Group
+Sales - Ready,Sale,Primary,11-4467-2022,07-03-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2805,3 B/R,28,B3-159,245.96,1884.35,,3100000.0,1645.13,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-4424-2022,07-03-2022,Dubai Marina,Sparkle Tower A,Apartment,1-606,2 B/R,6,B3-63,166.09,1478.22,,1900000.0,1285.33,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-4384-2022,07-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,1504,3 B/R,15,"B3-237,B3-238",146.71,1867.88,,6458000.0,3457.4,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4380-2022,07-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5401,1 B/R,54,B2-340,60.28,737.44,,2669000.0,3619.27,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4310-2022,04-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4303,1 B/R,43,B2-145,73.63,809.78,,2650000.0,3272.51,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4309-2022,04-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6704,2 B/R,67,B1-333,101.18,1491.68,,4272400.0,2864.16,Al Ain Properties
+Sales - Ready,Sale,Primary,11-4221-2022,03-03-2022,Dubai Marina,Damac Heights,Apartment,3907,2 B/R,39,B1-30,267.92,1828.7,,2351280.0,1285.77,Damac Properties
+Sales - Ready,Sale,Primary,11-4235-2022,03-03-2022,Dubai Marina,Damac Heights,Apartment,4105,3 B/R,41,P4-05,304.84,1956.68,,2506000.0,1280.74,Damac Properties
+Sales - Ready,Sale,Primary,11-4194-2022,03-03-2022,Dubai Marina,Damac Heights,Apartment,4107,2 B/R,41,B1-49,267.92,1825.04,,2354190.0,1289.94,Damac Properties
+Sales - Ready,Sale,Primary,11-4188-2022,03-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,7105,2 B/R,71,B3-094,,1197.28,,2700000.0,2255.11,Al Ain Properties
+Sales - Ready,Sale,Primary,11-3945-2022,02-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5804,1 B/R,58,B2-290,82.24,704.61,,2400000.0,3406.13,Al Ain Properties
+Sales - Ready,Sale,Primary,11-3842-2022,01-03-2022,Dubai Marina,Opal Marina Tower,Apartment,604,2 B/R,6,B2-22,234.98,1536.67,,1138000.0,740.56,Mismak Properties
+Sales - Ready,Sale,Primary,11-3923-2022,01-03-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6208,3 B/R,62,"B1-065,B1-065A",145.74,1919.87,,7655000.0,3987.26,Al Ain Properties
+Sales - Ready,Sale,Primary,11-3459-2022,24-02-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,2008,0 B/R,20,EU,85.9,438.31,,2290625.0,5226.04,The First Group
+Sales - Ready,Delayed Sell,Primary,41-3085-2022,23-02-2022,Dubai Marina,Damac Heights,Apartment,801,1 B/R,8,B5-19,,1221.07,,1563640.0,1280.55,Damac Properties
+Sales - Ready,Sale,Primary,11-3396-2022,23-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,2704,3 B/R,27,"B2-067,B2-068",146.82,1867.77,,6534000.0,3498.29,Al Ain Properties
+Sales - Ready,Sale,Primary,11-3406-2022,23-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3203,1 B/R,32,B1-380,74.59,809.24,,2619500.0,3237.0,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-2971-2022,22-02-2022,Dubai Marina,Sparkle Tower B,Apartment,2-1406,0 B/R,14,B3-161,55.0,412.58,,850000.0,2060.19,Tebyan Real Estate Clarity
+Sales - Ready,Delayed Sell,Primary,41-3036-2022,22-02-2022,Dubai Marina,Studio One,Apartment,312,1 B/R,3,B2-039,62.75,712.25,,949050.0,1332.46,Select Group
+Sales - Ready,Sale,Primary,11-3214-2022,22-02-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4601,1 B/R,46,L4R-477,127.55,977.05,,2466593.0,2524.54,Select Group
+Sales - Ready,Sale,Primary,11-3094-2022,18-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3201,1 B/R,32,B1-042,59.63,740.67,,2530000.0,3415.82,Al Ain Properties
+Sales - Ready,Sale,Primary,11-3096-2022,18-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6101,1 B/R,61,B1-378,62.0,749.28,,2739000.0,3655.5,Al Ain Properties
+Sales - Ready,Sale,Primary,11-3097-2022,18-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6604,2 B/R,66,B1-316,101.18,1491.68,,4262400.0,2857.46,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2959-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5806,2 B/R,58,B3-136,,1133.45,,2922500.0,2578.41,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2966-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5601,1 B/R,56,B2-332,60.28,737.44,,2687200.0,3643.95,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2921-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5602,1 B/R,56,B2-334,,626.25,,2187450.0,3492.94,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2967-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5603,1 B/R,56,B2-284,73.63,809.78,,2780000.0,3433.05,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2968-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5604,1 B/R,56,B2-333,82.24,704.61,,2445500.0,3470.71,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2969-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5605,3 B/R,56,"B1-353, B1-353A",146.39,1864.86,,7589200.0,4069.58,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2993-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5606,2 B/R,56,B2-261,103.01,1163.91,,5029000.0,4320.78,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2922-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5607,2 B/R,56,B2-262,174.81,1476.93,,5989150.0,4055.14,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2925-2022,17-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5608,3 B/R,56,"B1-039, B1-038",144.56,1927.29,,7792500.0,4043.23,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2704-2022,15-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3208,3 B/R,32,"B2-238,B2-239",145.85,1923.85,,7598000.0,3949.37,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2721-2022,15-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5303,1 B/R,53,B2-350,73.63,809.78,,2750000.0,3396.0,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2508-2022,11-02-2022,Dubai Marina,La Riviera Tower,Apartment,2004,2 B/R,20,B2-63,127.98,1150.03,,745000.0,647.81,B&M Riviera Developments
+Sales - Ready,Sale,Primary,11-2511-2022,11-02-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1204,1 B/R,12,B-149,183.1,1528.92,,1500000.0,981.09,Dubai Properties
+Sales - Ready,Sale,Primary,11-2512-2022,11-02-2022,Jumeirah Beach Residence,Bahar 2,Apartment,1703,2 B/R,17,B-119,93.43,1516.54,,2000000.0,1318.79,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-2315-2022,10-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,1104,3 B/R,11,"B3-071,B3-072",146.28,1860.34,,6182000.0,3323.04,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-2162-2022,09-02-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,1304,0 B/R,13,EU,,347.25,,1250000.0,3599.75,The First Group
+Sales - Ready,Sale,Primary,11-2295-2022,09-02-2022,Dubai Marina,Sparkle Tower B,Apartment,2-104,2 B/R,1,B1-04,229.81,1521.71,,1850000.0,1215.74,Tebyan Real Estate Clarity
+Sales - Ready,Delayed Sell,Primary,41-2044-2022,08-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3207,2 B/R,32,B2-183,175.78,1473.16,,5684000.0,3858.37,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2250-2022,08-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6406,2 B/R,64,B3-381,,1203.52,,2841500.0,2360.99,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2239-2022,08-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6703,2 B/R,67,B1-315,286.43,1816.64,,5245000.0,2887.2,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2166-2022,07-02-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,0103,4 B/R,1,"L1R-120, L1R-108, L1R108 T",383.09,4346.07,,11125000.0,2559.78,Select Group
+Sales - Ready,Sale,Primary,11-2066-2022,07-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,3208,1 B/R,32,B3-229,58.88,742.39,,2580000.0,3475.25,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2067-2022,07-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4306,2 B/R,43,B3-261,,1133.45,,2640300.0,2329.44,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2065-2022,07-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4506,2 B/R,45,B3-175,,1133.45,,2744000.0,2420.93,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2070-2022,07-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2301,1 B/R,23,B2-414,59.63,740.67,,2502000.0,3378.02,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2064-2022,07-02-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6502,2 B/R,65,B2-184,286.11,1798.88,,5013000.0,2786.73,Al Ain Properties
+Sales - Ready,Sale,Primary,11-2056-2022,04-02-2022,Dubai Marina,LIV Residence,Apartment,103,0 B/R,1,B1-P02,50.38,554.24,,1050548.0,1895.48,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-2051-2022,04-02-2022,Dubai Marina,Sparkle Tower A,Apartment,1-2305,3 B/R,23,B3-152,169.64,1882.62,,2833428.54,1505.04,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-1376-2022,27-01-2022,Dubai Marina,LIV Residence,Apartment,102,0 B/R,1,B1-P01,48.44,529.48,,980000.0,1850.87,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-1406-2022,27-01-2022,Dubai Marina,Sparkle Tower A,Apartment,1-1805,2 B/R,18,B3-117,206.99,1479.83,,2100000.0,1419.08,Tebyan Real Estate Clarity
+Sales - Ready,Delayed Sell,Primary,41-1347-2022,25-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5104,4 B/R,51,"B3-313,B3-313A",151.99,2555.05,,8102000.0,3170.97,Al Ain Properties
+Sales - Ready,Sale,Primary,11-1190-2022,25-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4006,1 B/R,40,B3-337,75.03,856.28,,2332250.0,2723.71,Al Ain Properties
+Sales - Ready,Sale,Primary,11-1129-2022,24-01-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4603,1 B/R,46,L4R-478,50.81,790.72,,1760911.0,2226.96,Select Group
+Sales - Ready,Sale,Primary,11-1099-2022,24-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,7104,2 B/R,71,B3-299,72.66,1154.22,,3100000.0,2685.79,Al Ain Properties
+Sales - Ready,Sale,Primary,11-1102-2022,24-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2508,3 B/R,25,"B1-023,B1-024",145.85,1923.85,,7556000.0,3927.54,Al Ain Properties
+Sales - Ready,Sale,Primary,11-1103-2022,24-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3101,1 B/R,31,B2-411,59.63,740.67,,2520000.0,3402.32,Al Ain Properties
+Sales - Ready,Sale,Primary,11-1114-2022,24-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4703,1 B/R,47,B2-228,73.63,809.78,,2690000.0,3321.91,Al Ain Properties
+Sales - Ready,Sale,Primary,11-1101-2022,24-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5503,1 B/R,55,B2-335,73.63,809.78,,2770000.0,3420.7,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-1225-2022,21-01-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3807,1 B/R,38,L4R-437,43.27,945.19,,1769226.0,1871.83,Select Group
+Sales - Ready,Delayed Sell,Primary,41-1224-2022,21-01-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,5106,1 B/R,51,L3R-354,43.16,942.82,,1881600.0,1995.72,Select Group
+Sales - Ready,Delayed Sell,Primary,41-1202-2022,21-01-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,5505,1 B/R,55,L3R-377,43.27,942.71,,1905222.0,2021.0,Select Group
+Sales - Ready,Sale,Primary,11-982-2022,20-01-2022,Jumeirah Beach Residence,Rimal 1,Apartment,508,3 B/R,5,B788/ B789,52.96,1919.22,,1614174.0,841.06,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-1054-2022,19-01-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,914,1 B/R,9,EU,,442.83,,1429350.0,3227.76,The First Group
+Sales - Ready,Delayed Sell,Primary,41-928-2022,18-01-2022,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,704,0 B/R,7,EU,,347.25,,1395000.0,4017.32,The First Group
+Sales - Ready,Sale,Primary,11-792-2022,18-01-2022,Dubai Marina,Opal Marina Tower,Apartment,702,2 B/R,7,B2-26,234.98,1546.14,,1300000.0,840.8,Mismak Properties
+Sales - Ready,Sale,Primary,11-758-2022,18-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4806,2 B/R,48,B3-163,,1133.45,,2914000.0,2570.91,Al Ain Properties
+Sales - Ready,Sale,Primary,11-759-2022,18-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5706,2 B/R,57,B3-140,,1133.45,,2720000.0,2399.75,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-842-2022,17-01-2022,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,812,0 B/R,8,EU,74.7,409.57,,975000.0,2380.54,The First Group
+Sales - Ready,Sale,Primary,11-694-2022,17-01-2022,Dubai Marina,Marina View Towers A,Apartment,1003,2 B/R,10,B1/88,155.97,961.98,,698898.0,726.52,New City Developers
+Sales - Ready,Sale,Primary,11-725-2022,17-01-2022,Dubai Marina,Opal Marina Tower,Apartment,2802,2 B/R,28,B3-75,234.98,1546.14,,1430649.0,925.3,Mismak Properties
+Sales - Ready,Sale,Primary,11-693-2022,17-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4706,2 B/R,47,B3-167,,1133.45,,2785000.0,2457.1,Al Ain Properties
+Sales - Ready,Sale,Primary,11-692-2022,17-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4508,3 B/R,45,"B2-100,B2-101",144.56,1927.29,,7506000.0,3894.58,Al Ain Properties
+Sales - Ready,Sale,Primary,11-695-2022,17-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4708,3 B/R,47,"B1-292,B1-292A",144.56,1927.29,,7261200.0,3767.56,Al Ain Properties
+Sales - Ready,Sale,Primary,11-629-2022,14-01-2022,Dubai Marina,LIV Residence,Apartment,1901,2 B/R,19,B1-P24,99.57,1303.63,,2301577.0,1765.52,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-658-2022,14-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,2908,1 B/R,29,B3-219,58.88,742.39,,2200000.0,2963.39,Al Ain Properties
+Sales - Ready,Sale,Primary,11-661-2022,14-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4304,1 B/R,43,B2-143,82.24,704.61,,2290000.0,3250.02,Al Ain Properties
+Sales - Ready,Sale,Primary,11-551-2022,13-01-2022,Dubai Marina,Marina Wharf Tower 2,Apartment,2704,1 B/R,27,F2-45,242.84,767.58,,650000.0,846.82,Dheeraj East Coast L.L.C
+Sales - Ready,Sale,Primary,11-567-2022,13-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6206,2 B/R,62,B3-110,,1135.82,,2962500.0,2608.25,Al Ain Properties
+Sales - Ready,Sale,Primary,11-538-2022,12-01-2022,Dubai Marina,LIV Residence,Apartment,1906,2 B/R,19,B1-P30,113.78,1395.23,,2882548.0,2066.0,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-481-2022,12-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,3706,1 B/R,37,B3-348,75.03,856.28,,2287500.0,2671.45,Al Ain Properties
+Sales - Ready,Sale,Primary,11-482-2022,12-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3708,3 B/R,37,"B2-363,B2-364",145.85,1923.85,,7183000.0,3733.66,Al Ain Properties
+Sales - Ready,Sale,Primary,11-495-2022,12-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4008,3 B/R,40,"B2-156,B2-157",145.85,1923.85,,7190000.0,3737.3,Al Ain Properties
+Sales - Ready,Sale,Primary,11-517-2022,12-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4608,3 B/R,46,"B2-324,B2-325",144.56,1927.29,,7241200.0,3757.18,Al Ain Properties
+Sales - Ready,Sale,Primary,11-485-2022,12-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4803,1 B/R,48,B2-232,73.63,809.78,,2700000.0,3334.26,Al Ain Properties
+Sales - Ready,Lease to Own Registration,Primary,110-11-2022,11-01-2022,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3506,1 B/R,35,L4R-408,43.38,945.29,,882727.5,933.81,Select Group
+Sales - Ready,Sale,Primary,11-478-2022,11-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3206,2 B/R,32,B2-107,104.41,1168.97,,4815000.0,4119.01,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-364-2022,10-01-2022,Dubai Marina,Marina Arcade Tower,Apartment,4007,1 B/R,,G-14,42.84,797.72,,1050000.0,1316.25,Marina Arcade Real Estate LLC
+Sales - Ready,Sale,Primary,11-351-2022,10-01-2022,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,2502,3 B/R,25,B3-073,77.07,2172.71,,2567800.0,1181.84,Al Fattan Proprerties LLC
+Sales - Ready,Sale,Primary,11-301-2022,07-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5802,1 B/R,58,B2-289,,626.25,,2200000.0,3512.98,Al Ain Properties
+Sales - Ready,Sale,Primary,11-231-2022,06-01-2022,Dubai Marina,LIV Residence,Apartment,1902,2 B/R,19,B1-P25,169.64,1417.94,,2457548.0,1733.18,LIV Real Estate Development
+Sales - Ready,Sale,Primary,11-205-2022,06-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5906,2 B/R,59,B3-116,,1135.82,,2905000.0,2557.63,Al Ain Properties
+Sales - Ready,Sale,Primary,11-218-2022,06-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,904,3 B/R,9,"B3-067,B3-068",146.28,1860.99,,6180000.0,3320.82,Al Ain Properties
+Sales - Ready,Sale,Primary,11-217-2022,06-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4308,3 B/R,43,"B2-122,B2-123",144.56,1927.29,,7240000.0,3756.56,Al Ain Properties
+Sales - Ready,Sale,Primary,11-176-2022,05-01-2022,Dubai Marina,52-42 Tower 2,Apartment,401,1 B/R,4,2F-141,102.37,1002.24,,2170888.0,2166.04,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-119-2022,05-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,2906,1 B/R,29,B3-218,75.03,856.28,,2273500.0,2655.1,Al Ain Properties
+Sales - Ready,Sale,Primary,11-120-2022,05-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,3708,1 B/R,37,B3-347,58.88,742.39,,2256000.0,3038.82,Al Ain Properties
+Sales - Ready,Sale,Primary,11-121-2022,05-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6506,2 B/R,65,B3-355,,1203.52,,2640000.0,2193.56,Al Ain Properties
+Sales - Ready,Sale,Primary,11-123-2022,05-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,7205,2 B/R,72,B2-367,,1197.28,,2760000.0,2305.23,Al Ain Properties
+Sales - Ready,Sale,Primary,11-178-2022,05-01-2022,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3001,1 B/R,30,B1-034,59.63,740.67,,2510000.0,3388.82,Al Ain Properties
+Sales - Ready,Sale,Primary,11-101-2022,04-01-2022,Dubai Marina,LIV Residence,Apartment,2401,2 B/R,24,B1-P35,99.57,1307.72,,2264000.0,1731.26,LIV Real Estate Development
+Sales - Ready,Delayed Sell,Primary,41-14402-2021,30-12-2021,Dubai Marina,52-42 Tower 2,Apartment,202,1 B/R,2,2F-013,101.94,1011.39,,2221888.0,2196.88,Emaar Properties PJSC
+Sales - Ready,Delayed Sell,Primary,41-14364-2021,29-12-2021,Dubai Marina,52-42 Tower 2,Apartment,301,1 B/R,3,2F-117,102.47,1002.24,,2166888.0,2162.05,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-23511-2021,29-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6505,2 B/R,65,B3-379,72.23,1152.61,,2960000.0,2568.09,Al Ain Properties
+Sales - Ready,Sale,Primary,11-23512-2021,29-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4908,3 B/R,49,"B2-264,B2-265",144.56,1927.29,,7499686.0,3891.3,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-14242-2021,27-12-2021,Dubai Marina,52-42 Tower 2,Apartment,201,1 B/R,2,1F-032,102.15,1002.02,,2162888.0,2158.53,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-23289-2021,27-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6605,2 B/R,66,B3-357,72.23,1152.61,,3020500.0,2620.58,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-14187-2021,26-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3907,1 B/R,39,L4R-444,43.27,945.19,,1827322.0,1933.29,Select Group
+Sales - Ready,Sale,Primary,11-23196-2021,26-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,1901,1 B/R,19,L6R-650,127.23,977.91,,2458105.0,2513.63,Select Group
+Sales - Ready,Sale,Primary,11-23169-2021,26-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3303,0 B/R,33,L6R-613,39.18,609.24,,1600000.0,2626.21,Select Group
+Sales - Ready,Sale,Primary,11-23191-2021,26-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4301,1 B/R,43,L4R-459,127.45,975.0,,2460227.0,2523.3,Select Group
+Sales - Ready,Sale,Primary,11-23187-2021,26-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4706,1 B/R,47,L3R-310,43.27,942.82,,1897546.0,2012.63,Select Group
+Sales - Ready,Sale,Primary,11-23198-2021,26-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,5504,2 B/R,55,L2R-279,92.36,1426.66,,2623500.0,1838.91,Select Group
+Sales - Ready,Sale,Primary,11-23193-2021,26-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,5506,1 B/R,55,L3R-378,43.27,942.82,,1924663.0,2041.39,Select Group
+Sales - Ready,Sale,Primary,11-23166-2021,26-12-2021,Dubai Marina,No. 9 Tower Dubai Marina,Apartment,3101,3 B/R,31,"B4-34, B4-36",125.19,1805.23,,3299999.0,1828.02,Select Group
+Sales - Ready,Sale,Primary,11-23240-2021,26-12-2021,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,2409,0 B/R,24,EU,29.28,609.78,,1773860.0,2909.01,The First Group
+Sales - Ready,Sale,Primary,11-23167-2021,26-12-2021,Dubai Marina,The Residences at Marina Gate 2,Apartment,3805,2 B/R,38,L3-52,158.77,1206.64,,2650000.0,2196.17,Select Group
+Sales - Ready,Sale,Primary,11-23168-2021,26-12-2021,Dubai Marina,The Residences at Marina Gate 2,Apartment,3906,2 B/R,39,L1-01,91.28,1229.36,,2350000.0,1911.57,Select Group
+Sales - Ready,Delayed Sell,Primary,41-14069-2021,22-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4801,1 B/R,48,L3R-330,127.55,977.05,,2470836.0,2528.88,Select Group
+Sales - Ready,Sale,Primary,11-22962-2021,22-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,2904,3 B/R,29,"B2-023,B2-024",146.82,1867.77,,6208000.0,3323.75,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22963-2021,22-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6106,2 B/R,61,B2-296,101.72,1159.28,,4828000.0,4164.64,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22977-2021,22-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6108,3 B/R,61,"B1-104,B1-105",145.74,1919.87,,7278000.0,3790.89,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22678-2021,18-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4906,2 B/R,49,B3-187,,1133.45,,2686000.0,2369.76,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22677-2021,18-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6805,2 B/R,68,B3-328,,1197.28,,2670000.0,2230.06,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-13810-2021,16-12-2021,Dubai Marina,Studio One,Apartment,3005,2 B/R,30,B1-049,133.47,835.93,,1552000.0,1856.61,Select Group
+Sales - Ready,Sale,Primary,11-22580-2021,16-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6006,2 B/R,60,B3-120,,1135.82,,2751800.0,2422.75,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-13752-2021,15-12-2021,Dubai Marina,52-42 Tower 1,Apartment,305,1 B/R,3,1F-082,102.37,962.09,,2300888.0,2391.56,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-22538-2021,15-12-2021,Dubai Marina,Sparkle Tower B,Apartment,2-1103,2 B/R,11,B3-42,237.02,1524.61,,2150000.0,1410.19,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-22477-2021,15-12-2021,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,3205,3 B/R,32,B2-153,79.44,2180.14,,2750000.0,1261.39,Al Fattan Proprerties LLC
+Sales - Ready,Sale,Primary,11-22480-2021,15-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5106,2 B/R,51,B3-017,,1133.45,,2706000.0,2387.4,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22481-2021,15-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5206,2 B/R,52,B3-021,,1133.45,,2695600.0,2378.23,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22479-2021,15-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2503,1 B/R,25,B2-405,74.59,809.24,,2595000.0,3206.72,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-13686-2021,14-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,3608,3 B/R,36,"B2-359,B2-360",145.85,1923.85,,7238500.0,3762.51,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22370-2021,14-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5408,3 B/R,54,"B1-362,B1-363",144.56,1927.29,,7275000.0,3774.72,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-13617-2021,13-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,5204,2 B/R,52,"L6R-606, L6R-606 T",92.36,1426.66,,2509390.0,1758.93,Select Group
+Sales - Ready,Delayed Sell,Primary,41-13616-2021,13-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,5304,2 B/R,53,"L6R-604, L6R-604 T",92.36,1426.66,,2510360.0,1759.61,Select Group
+Sales - Ready,Sale,Primary,11-22283-2021,13-12-2021,Dubai Marina,Sparkle Tower B,Apartment,2-303,2 B/R,3,B1-21,133.15,1155.62,,1824950.0,1579.19,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-22279-2021,13-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,2506,1 B/R,25,B3-393,75.03,856.28,,2240000.0,2615.98,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22282-2021,13-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6005,2 B/R,60,B3-121,72.55,1152.29,,2925000.0,2538.43,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22156-2021,09-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4406,2 B/R,44,B3-179,,1133.45,,2640000.0,2329.17,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22152-2021,09-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5606,2 B/R,56,B3-158,,1133.45,,2745000.0,2421.81,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22046-2021,09-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6205,2 B/R,62,B3-109,72.55,1152.29,,2975000.0,2581.82,Al Ain Properties
+Sales - Ready,Sale,Primary,11-22160-2021,09-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5306,2 B/R,53,B2-244,103.01,1163.91,,4742000.0,4074.19,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-13322-2021,07-12-2021,Dubai Marina,Damac Heights,Apartment,3707,2 B/R,37,B1-07,268.02,1880.69,,2404630.0,1278.59,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-13298-2021,07-12-2021,Dubai Marina,Damac Heights,Apartment,5204,3 B/R,52,P4-61,304.08,1894.57,,2422090.0,1278.44,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-13283-2021,07-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4006,1 B/R,40,L4R-449,43.38,945.29,,1845120.0,1951.9,Select Group
+Sales - Ready,Sale,Primary,11-21893-2021,07-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3806,1 B/R,38,L4R-436,43.38,945.29,,1825096.0,1930.72,Select Group
+Sales - Ready,Sale,Primary,11-21832-2021,07-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,1908,3 B/R,19,"B1-321, B1-322",145.85,1923.85,,7158000.0,3720.66,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-13215-2021,06-12-2021,Dubai Marina,Damac Heights,Apartment,5704,2 B/R,57,P3-28,295.69,1774.66,,2360980.0,1330.38,Damac Properties
+Sales - Ready,Lease to Own Registration,Primary,110-393-2021,06-12-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4302,3 B/R,43,"L4R-430, L4R-430 T",262.53,2132.46,,2578914.0,1209.36,Select Group
+Sales - Ready,Sale,Primary,11-21736-2021,06-12-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,3604,3 B/R,36,"B3-078,B3-079",146.82,1867.77,,6240000.0,3340.88,Al Ain Properties
+Sales - Ready,Sale,Primary,11-21683-2021,05-12-2021,Jumeirah Beach Residence,Bahar 2,Apartment,1203,3 B/R,12,"B-143, B-144",100.32,2172.07,,2800000.0,1289.09,Dubai Properties
+Sales - Ready,Sale,Primary,11-21698-2021,05-12-2021,Jumeirah Beach Residence,Bahar 2,Apartment,2601,PENTHOUSE,26,G-103,,2996.05,,2736000.0,913.2,Dubai Properties
+Sales - Ready,Delayed Sell,Primary,41-13074-2021,29-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,4106,1 B/R,41,B3-284,75.03,856.28,,2338000.0,2730.43,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-12977-2021,28-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3606,1 B/R,36,L4R-414,43.38,945.29,,1767616.0,1869.91,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12979-2021,28-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3812,1 B/R,38,L4R-439,127.34,976.51,,2450679.0,2509.63,Select Group
+Sales - Ready,Sale,Primary,11-21363-2021,28-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6107,2 B/R,61,B2-297,174.16,1481.34,,5620000.0,3793.86,Al Ain Properties
+Sales - Ready,Sale,Primary,11-21211-2021,25-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5304,4 B/R,53,"B3-155, B3-156",151.99,2555.05,,8184000.0,3203.07,Al Ain Properties
+Sales - Ready,Sale,Primary,11-21186-2021,25-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,7204,2 B/R,72,B3-086,72.66,1154.22,,2972000.0,2574.89,Al Ain Properties
+Sales - Ready,Sale,Primary,11-21184-2021,25-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6105,3 B/R,61,"B1-112,B1-113",146.18,1867.34,,7370000.0,3946.79,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-12811-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4305,1 B/R,43,L4R-461,43.27,943.68,,1842400.0,1952.36,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12812-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4405,1 B/R,44,L4R-467,43.27,942.71,,1846241.0,1958.44,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12818-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4406,1 B/R,44,L4R-468,43.27,942.82,,1846241.0,1958.21,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12819-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4505,1 B/R,45,L4R-473,43.27,942.71,,1850692.0,1963.16,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12820-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4506,1 B/R,45,L4R-474,43.27,942.82,,1850692.0,1962.94,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12821-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4605,1 B/R,46,L4R-479,43.27,942.71,,1855144.0,1967.88,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12822-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4606,1 B/R,46,L4R-480,43.27,942.82,,1855144.0,1967.66,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12823-2021,24-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4811,1 B/R,48,L3R-338,127.45,976.83,,2470836.0,2529.44,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12857-2021,24-11-2021,Dubai Marina,Studio One,Apartment,209,1 B/R,2,B1-126,62.11,712.47,,926250.0,1300.06,Select Group
+Sales - Ready,Sale,Primary,11-21072-2021,24-11-2021,Dubai Marina,Sparkle Tower A,Apartment,1-2002,2 B/R,20,B3-126,203.01,1477.36,,2250000.0,1522.99,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-21073-2021,24-11-2021,Dubai Marina,Sparkle Tower A,Apartment,1-2202,3 B/R,22,B3-136,207.21,1870.03,,2800000.0,1497.3,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-21134-2021,24-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,2603,1 B/R,26,B2-401,74.59,809.24,,2163100.0,2673.01,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-12790-2021,23-11-2021,Dubai Marina,Damac Heights,Apartment,1706,2 B/R,17,B4-40,139.82,1624.07,,2050416.0,1262.52,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-12725-2021,23-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3706,1 B/R,37,L4R-420,43.38,945.29,,1800550.0,1904.75,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12726-2021,23-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3707,1 B/R,37,L4R-421,43.27,945.19,,1800550.0,1904.97,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12724-2021,23-11-2021,Dubai Marina,Studio One,Apartment,409,1 B/R,4,B1-133,62.22,714.08,,949050.0,1329.05,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12666-2021,22-11-2021,Dubai Marina,52-42 Tower 2,Apartment,707,1 B/R,7,3F-103,53.39,655.31,,1347888.0,2056.86,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-20821-2021,21-11-2021,Dubai Marina,Marina Diamond Tower 3,Apartment,1204,0 B/R,12,28 B2,50.05,445.95,,381330.0,855.09,Diamond Developers
+Sales - Ready,Sale,Primary,11-20748-2021,21-11-2021,Dubai Marina,Sparkle Tower A,Apartment,1-1902,2 B/R,19,B3-122,203.01,1477.36,,2250000.0,1522.99,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-20543-2021,17-11-2021,Dubai Marina,The Residences at Marina Gate 2,Apartment,5405,2 B/R,54,L2-09,153.06,1203.52,,2547999.0,2117.12,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12415-2021,16-11-2021,Dubai Marina,Studio One,Apartment,GF01,1 B/R,G,B1-081,99.03,658.97,,845060.0,1282.39,Select Group
+Sales - Ready,Sale,Primary,11-20441-2021,15-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4310,2 B/R,43,"L6R-632, L6R-632 T",223.68,1517.51,,4250000.0,2800.64,Select Group
+Sales - Ready,Sale,Primary,11-20379-2021,15-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,506,1 B/R,5,B3-277,74.59,855.42,,2140000.0,2501.71,Al Ain Properties
+Sales - Ready,Sale,Primary,11-20234-2021,14-11-2021,Dubai Marina,Studio One,Apartment,110,1 B/R,1,B1-123,62.43,710.21,,972900.0,1369.88,Select Group
+Sales - Ready,Sale,Primary,11-20235-2021,14-11-2021,Dubai Marina,Studio One,Apartment,208,2 B/R,2,B1-125,137.03,826.89,,1249200.0,1510.72,Select Group
+Sales - Ready,Delayed Sell,Primary,41-12191-2021,11-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5305,3 B/R,53,"B2-309,B2-310",146.39,1864.86,,7302500.0,3915.84,Al Ain Properties
+Sales - Ready,Sale,Primary,11-20150-2021,11-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5905,2 B/R,59,B3-117,72.55,1152.29,,2930000.0,2542.77,Al Ain Properties
+Sales - Ready,Sale,Primary,11-20146-2021,11-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,5308,3 B/R,53,"B1-307,B1-308",144.56,1927.29,,7202000.0,3736.85,Al Ain Properties
+Sales - Ready,Sale,Primary,11-20145-2021,11-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,6909,1 B/R,69,B1-326,176.31,1142.38,,4612500.0,4037.61,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-12114-2021,10-11-2021,Dubai Marina,52-42 Tower 1,Apartment,405,1 B/R,4,1F-012,102.37,962.09,,2094888.0,2177.44,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-20010-2021,09-11-2021,Dubai Marina,Marina Suites,Apartment,101,1 B/R,1,B2-01,84.17,826.14,,403668.0,488.62,Sheffield Real Estate Llc
+Sales - Ready,Sale,Primary,11-19955-2021,09-11-2021,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,1711,1 B/R,17,EU,,442.83,,1195000.0,2698.55,The First Group
+Sales - Ready,Sale,Primary,11-19954-2021,09-11-2021,Jumeirah Beach Residence,Al Fattan Marine Tower 2,Apartment,4801,2 B/R,48,B3-130,,1656.69,,2400000.0,1448.67,Al Fattan Proprerties LLC
+Sales - Ready,Sale,Primary,11-19961-2021,09-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,1901,1 B/R,19,B2-208,59.63,740.67,,2460000.0,3321.31,Al Ain Properties
+Sales - Ready,Sale,Primary,11-19857-2021,08-11-2021,Dubai Marina,Damac Heights,Apartment,2210,2 B/R,22,B3-24,107.53,1604.8,,2008870.0,1251.78,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11921-2021,07-11-2021,Dubai Marina,52-42 Tower 2,Apartment,808,2 B/R,8,3F-136,107.75,1116.66,,2133888.0,1910.96,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-19805-2021,07-11-2021,Dubai Marina,Horizon Tower,Apartment,903,4 B/R,9,"B3-33, B3-32",179.01,2450.53,,1700000.0,693.73,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-19853-2021,07-11-2021,Dubai Marina,Sparkle Tower B,Apartment,2-1403,2 B/R,14,B3-141,237.02,1524.61,,2200000.0,1442.99,Tebyan Real Estate Clarity
+Sales - Ready,Sale,Primary,11-19765-2021,07-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,2108,1 B/R,21,B3-054,58.88,742.39,,2114000.0,2847.55,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-11802-2021,04-11-2021,Dubai Marina,Damac Heights,Apartment,5904,2 B/R,59,P3-50,292.03,1727.62,,2301810.0,1332.36,Damac Properties
+Sales - Ready,Sale,Primary,11-19661-2021,04-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4307,2 B/R,43,L2R-247,92.36,1423.32,,2850000.0,2002.36,Select Group
+Sales - Ready,Sale,Primary,11-19663-2021,04-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4602,3 B/R,46,"L4R-434, L4R-434 T",262.53,2131.49,,5172824.0,2426.86,Select Group
+Sales - Ready,Sale,Primary,11-19662-2021,04-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4802,3 B/R,48,"T , L6R-627, L6R-627 T",262.53,2131.49,,4976195.0,2334.61,Select Group
+Sales - Ready,Delayed Sell,Primary,41-11728-2021,03-11-2021,Dubai Marina,52-42 Tower 1,Apartment,3604,3 B/R,36,"GF-31, GF-32",128.52,1742.48,,3656888.0,2098.67,Emaar Properties PJSC
+Sales - Ready,Delayed Sell,Primary,41-11720-2021,03-11-2021,Dubai Marina,Damac Heights,Apartment,2305,2 B/R,23,B3-29,248.86,1741.18,,2150000.0,1234.79,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11738-2021,03-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,3507,1 B/R,35,L4R-409,43.27,945.19,,1765455.0,1867.84,Select Group
+Sales - Ready,Delayed Sell,Primary,41-11652-2021,02-11-2021,Dubai Marina,Damac Heights,Apartment,4803,2 B/R,48,P4-30,276.2,1707.06,,2291400.0,1342.31,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11669-2021,02-11-2021,Dubai Marina,Damac Heights,Apartment,5604,2 B/R,56,P3-19,297.84,1794.57,,2336050.0,1301.73,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11677-2021,02-11-2021,Dubai Marina,Damac Heights,Apartment,5806,2 B/R,58,P3-43,268.13,2079.93,,2749300.0,1321.82,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11667-2021,02-11-2021,Dubai Marina,Damac Heights,Apartment,7201,3 B/R,72,"G-17 , P1-37",64.05,2282.61,,3306000.0,1448.34,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11607-2021,01-11-2021,Dubai Marina,Damac Heights,Apartment,4504,3 B/R,45,B1-47,307.53,1950.11,,2480290.0,1271.87,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11608-2021,01-11-2021,Dubai Marina,Damac Heights,Apartment,5606,2 B/R,56,P3-21,268.02,2115.56,,2812030.0,1329.22,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11515-2021,01-11-2021,Dubai Marina,Studio One,Apartment,2012,0 B/R,20,B2-020,91.6,502.36,,740720.0,1474.49,Select Group
+Sales - Ready,Sale,Primary,11-19337-2021,01-11-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4803,1 B/R,48,L3R-331,50.81,790.72,,1788189.0,2261.46,Select Group
+Sales - Ready,Sale,Primary,11-19343-2021,01-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6301,2 B/R,63,B3-384,188.48,1907.92,,5111000.0,2678.83,Al Ain Properties
+Sales - Ready,Sale,Primary,11-19342-2021,01-11-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 2,Serviced/Hotel Apartment,4504,1 B/R,45,B2-140,82.24,704.61,,2247000.0,3188.99,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-11496-2021,31-10-2021,Dubai Marina,Damac Heights,Apartment,3807,2 B/R,38,B1-21,266.73,1878.32,,2405600.0,1280.72,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11473-2021,31-10-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,6804,2 B/R,68,B3-330,72.66,1154.22,,2963000.0,2567.09,Al Ain Properties
+Sales - Ready,Sale,Primary,11-19274-2021,31-10-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4705,1 B/R,47,L3R-309,43.27,942.71,,1897546.0,2012.86,Select Group
+Sales - Ready,Sale,Primary,11-19272-2021,31-10-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4709,1 B/R,47,L4R-463,50.81,794.81,,1890302.0,2378.3,Select Group
+Sales - Ready,Sale,Primary,11-19252-2021,31-10-2021,Dubai Marina,Paloma 3,Apartment,2203,2 B/R,22,P1 - 1177,75.03,1664.01,,2550000.0,1532.45,Emaar Properties PJSC
+Sales - Ready,Sale,Primary,11-19242-2021,31-10-2021,Dubai Marina,Studio One,Apartment,1109,1 B/R,11,B1-103,62.22,714.08,,1125000.0,1575.45,Select Group
+Sales - Ready,Delayed Sell,Primary,41-11430-2021,28-10-2021,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,2308,0 B/R,23,EU,29.28,614.52,,1665789.0,2710.73,The First Group
+Sales - Ready,Sale,Primary,11-19130-2021,28-10-2021,Dubai Marina,Sparkle Tower B,Apartment,2-703,2 B/R,7,B2-56,237.02,1524.61,,2040000.0,1338.04,Tebyan Real Estate Clarity
+Sales - Ready,Delayed Sell,Primary,41-11161-2021,24-10-2021,Dubai Marina,52-42 Tower 1,Apartment,1407,2 B/R,14,4F-039,51.02,1183.93,,2405888.0,2032.12,Emaar Properties PJSC
+Sales - Ready,Delayed Sell,Primary,41-11120-2021,24-10-2021,Dubai Marina,Damac Heights,Apartment,804,2 B/R,8,B5-22,177.07,1598.99,,2019770.0,1263.15,Damac Properties
+Sales - Ready,Delayed Sell,Primary,41-11090-2021,20-10-2021,Dubai Marina,TFG Marina Hotel (Wyndham Dubai Marina),Serviced/Hotel Apartment,3009,0 B/R,30,EU,,650.25,,1796472.0,2762.73,The First Group
+Sales - Ready,Sale,Primary,11-18685-2021,20-10-2021,Dubai Marina,Jumeirah Living Marina Gate (The Residences at Marina Gate 3),Apartment,4806,1 B/R,48,L3R-336,43.27,942.82,,1902088.0,2017.45,Select Group
+Sales - Ready,Delayed Sell,Primary,41-11028-2021,19-10-2021,Dubai Marina,Millennium Place (The One Dubai Marina By Wyndham),Serviced/Hotel Apartment,2020,0 B/R,20,EU,149.19,669.09,,1841510.0,2752.26,The First Group
+Sales - Ready,Sale,Primary,11-18636-2021,19-10-2021,Jumeirah Beach Residence,The Address Jumeirah Resort Tower 1,Apartment,5306,2 B/R,53,B3-025,,1133.45,,2702200.0,2384.05,Al Ain Properties
+Sales - Ready,Delayed Sell,Primary,41-10890-2021,17-10-2021,Dubai Marina,Sparkle Tower A,Apartment,1-2501,3 B/R,25,B1-60,207.21,1867.55,,2760000.0,1477.87,Tebyan Real Estate Clarity
