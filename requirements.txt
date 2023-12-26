@@ -1,0 +1,11 @@
+googlemaps
+langchain
+langchain-experimental
+langchainhub==0.1.13
+openai
+pandas
+proto-plus==1.22.2
+protobuf==3.20.0
+pydantic
+tabulate
+tiktoken

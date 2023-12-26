@@ -7,11 +7,10 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return render_template('index.html')
+    return jsonify({
+        "message": "Welcome to the Viewit API! Please navigate to the /chat endpoint \
+            followed by your input to use the API."}), 200
 
-@app.route("/inner_page/")
-def inner_page():
-    return render_template('inner_page.html')
 
 @app.route("/send-message/<message>")
 def send_message(message):
