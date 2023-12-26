@@ -8,11 +8,11 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     return jsonify({
-        "message": "Welcome to the Viewit API! Please navigate to the /chat endpoint \
-            followed by your input to use the API."}), 200
+        "message": "Welcome to the Viewit API! Please navigate to the /chat endpoint" \
+           " followed by your input to use the API."}), 200
 
 
-@app.route("/send-message/<message>")
+@app.route("/chat/<message>")
 def send_message(message):
 
     temperature = request.args.get('temperature')
