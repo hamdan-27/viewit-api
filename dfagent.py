@@ -1,6 +1,7 @@
 from prompts import *
 
 import os
+from dotenv import load_dotenv
 import pandas as pd
 
 from langchain.chains.llm import LLMChain
@@ -11,6 +12,7 @@ from langchain_experimental.tools.python.tool import PythonAstREPLTool
 from langchain.agents import ZeroShotAgent, AgentExecutor
 # from langchain.agents import create_pandas_dataframe_agent
 
+load_dotenv()
 
 def load_data(filename) -> pd.DataFrame:
     df = pd.read_csv(f"data/{filename}")
