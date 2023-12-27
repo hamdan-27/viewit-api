@@ -1,6 +1,7 @@
 python-dotenv
 flask
 googlemaps
+gunicorn==21.2.0
 langchain
 langchain-experimental
 langchainhub==0.1.13
