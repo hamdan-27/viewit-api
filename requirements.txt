@@ -1,4 +1,3 @@
-python-dotenv
 flask
 googlemaps
 gunicorn==21.2.0
@@ -10,5 +9,7 @@ pandas
 proto-plus==1.22.2
 protobuf==3.20.0
 pydantic
+python-dotenv
 tabulate
 tiktoken
+waitress
