@@ -6,16 +6,16 @@ import os
 app = Flask(__name__)
 
 
-@app.route('/favicon.ico')
-def favicon():
-    return send_from_directory(os.path.join(app.root_path, 'static'), 'favicon.ico',mimetype='image/vnd.microsoft.icon')
-
-
 @app.route("/")
 def hello():
     return jsonify({
         "message": "Welcome to the Viewit API! Please navigate to the /chat endpoint" \
            " followed by your input to use the API."}), 200
+
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'favicon.ico',mimetype='image/vnd.microsoft.icon')
 
 
 @app.route("/chat/<message>")
