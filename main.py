@@ -83,11 +83,13 @@ def send_message(message):
 def generate():
     try:
         client = OpenAI()
-        features = request.get_json()
+        payload = request.get_json()
+        features = payload.get("features", {})
         model = request.args.get('model')
-        temperature = float(request.args.get('temperature'))
-        seo = request.args.get("seo")
-        seo_list = seo.split(',') if seo else None
+        temp = request.args.get('temperature')
+        temperature = float(temp) if temp else None
+        seo = payload.get("seo")
+        seo_list = seo.replace(' ', '').split(',') if seo else None
 
         seo_prompt = f"Use these keywords in your description for better SEO: {seo_list}\n" if seo else ''
 
