@@ -12,7 +12,7 @@ app = Flask(__name__)
 def hello():
     return jsonify({
         "message": "Welcome to the Viewit API! Please navigate to the /chat endpoint" \
-           " for the chatbot API, or the /generate endpoint for the property" \
+           " for the chatbot API, or the /description endpoint for the property" \
             " description API."}), 200
 
 
@@ -58,6 +58,50 @@ def send_message(message):
 
         return jsonify(response_data), 200
     
+    except Exception as e:
+        return jsonify({"error": str(e)}), 400
+
+
+
+@app.route("/description", methods=["POST"])
+def generate():
+    try:
+        client = OpenAI()
+        features = request.get_json()
+        model = request.args.get('model')
+        temperature = request.args.get('temperature')
+        seo = request.args.get("seo")
+        seo_list = seo.split(',') if seo else None
+
+        seo_prompt = f"Use these keywords in your description for better SEO: {seo_list}\n" if seo else ''
+
+        prompt = f"""Generate ONLY the description for a property listing in under 1000 \
+        characters. The features of the property are mentioned in the json provided by the user. \
+        The price should be in AED.
+        {seo_prompt}
+        """
+
+        completion = client.chat.completions.create(
+            model= model or "gpt-4-1106-preview",
+            temperature=temperature or 0.1,
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": f"{features}"}
+            ]
+        )
+
+        description = completion.choices[0].message.content
+
+        response_data = {
+            "response": {
+                "description": description
+            },
+            "model": model or "gpt-4-1106-preview",
+            "temperature": temperature or 0.1
+        }
+
+        return jsonify(response_data), 200
+
     except Exception as e:
         return jsonify({"error": str(e)}), 400
 
