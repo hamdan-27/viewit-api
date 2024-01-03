@@ -1,5 +1,6 @@
+from flask import Flask, request, jsonify, send_from_directory
+from flask_swagger_ui import get_swaggerui_blueprint
 from langchain.callbacks import get_openai_callback
-from flask import Flask, request, jsonify
 from openai import OpenAI
 import dfagent
 import prompts
@@ -7,6 +8,21 @@ import os
 
 app = Flask(__name__)
 
+
+# @app.route("/static/<path:path>")
+# def send_static(path):
+#     return send_from_directory("static", path)
+
+# SWAGGER_URL = '/swagger'
+# API_URL = '/static/swagger.json'
+# swaggerui_blueprint = get_swaggerui_blueprint(
+#     SWAGGER_URL,
+#     API_URL,
+#     config={
+#         'app_name': 'Viewit AI API'
+#     }
+# )
+# app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
 @app.route("/")
 def hello():
@@ -69,7 +85,7 @@ def generate():
         client = OpenAI()
         features = request.get_json()
         model = request.args.get('model')
-        temperature = request.args.get('temperature')
+        temperature = float(request.args.get('temperature'))
         seo = request.args.get("seo")
         seo_list = seo.split(',') if seo else None
 
