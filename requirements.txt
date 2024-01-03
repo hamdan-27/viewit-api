@@ -6,11 +6,11 @@ gunicorn==20.1.0
 h11==0.14.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
-langchain==0.0.353
+langchain
 langchain_core
 langchain-core
 langchain-experimental
-langchainhub==0.1.13
+langchainhub
 MarkupSafe==2.1.2
 openai==1.6.1
 pandas
