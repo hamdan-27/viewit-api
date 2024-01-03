@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify, send_from_directory
 # from flask_swagger_ui import get_swaggerui_blueprint
-from langchain_community.callbacks import get_openai_callback
+from langchain.callbacks import get_openai_callback
 from openai import OpenAI
 import dfagent
 import prompts
