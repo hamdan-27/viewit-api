@@ -1,25 +1,31 @@
 from prompts import *
 
-import os
 from dotenv import load_dotenv
 import pandas as pd
+import os
 
-from langchain.chains.llm import LLMChain
-from langchain.tools import GooglePlacesTool
-from langchain.chat_models import ChatOpenAI
-from langchain.memory import ConversationBufferMemory
+# from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
 from langchain_experimental.tools.python.tool import PythonAstREPLTool
+from langchain.tools.google_places.tool import GooglePlacesTool
 from langchain.agents import ZeroShotAgent, AgentExecutor
-# from langchain.agents import create_pandas_dataframe_agent
+from langchain.memory import ConversationBufferMemory
+from langchain.chat_models import ChatOpenAI
+from langchain.chains.llm import LLMChain
 
-load_dotenv()
 
 def load_data(filename) -> pd.DataFrame:
     df = pd.read_csv(f"data/{filename}")
-    df['Date'] = pd.to_datetime(df['Date'], format="%d-%m-%Y", dayfirst=True)
+    df['Date'] = pd.to_datetime(df["Date"], format="%d-%m-%Y", exact=False).dt.date
 
     return df
 
+
+load_dotenv()
+
+# VARIABLES
+TEMPERATURE = 0.1
+df = load_data('reidin_new.csv')
+model = 'gpt-4'
 
 pd.set_option('display.max_columns', None)
 
@@ -33,21 +39,6 @@ def create_pandas_dataframe_agent(
         format_instructions: str,
         verbose: bool,
         **kwargs) -> AgentExecutor:
-    """Construct a pandas agent from an LLM and dataframe.
-
-    Parameters:
-    - model: The LLM to use.
-    - temperature: The temperature of the model.
-    - df: The dataframe to use as knowledge base.
-    - prefix: Prefix of the prompt.
-    - suffix: Suffix of the prompt.
-    - format_instructions: The format to be followed by the agent.
-    - verbose: Whether to display the chain of thought.
-    - **kwargs: 
-
-    Returns:
-    - An AgentExecutor object
-    """
 
     if not isinstance(df, pd.DataFrame):
         raise ValueError(f"Expected pandas object, got {type(df)}")
@@ -88,24 +79,3 @@ def create_pandas_dataframe_agent(
         memory=memory,
         **kwargs
     )
-
-
-# Set up memory
-memory = ConversationBufferMemory(memory_key="chat_history")
-
-
-# VARIABLES
-TEMPERATURE = 0.1
-df = load_data('reidin_new.csv')
-model = 'gpt-4'
-
-llm = ChatOpenAI(temperature=TEMPERATURE,
-                 model_name=model,
-                 openai_api_key=os.environ['OPENAI_API_KEY'])
-
-# llm = OpenAI(temperature=TEMPERATURE,
-#                 model_name=MODEL_NAME,
-#                 openai_api_key=st.secrets['api_key'])
-
-
-# API keys
