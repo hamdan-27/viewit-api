@@ -1,13 +1,16 @@
 from flask import Flask, request, jsonify, send_from_directory
 # from flask_swagger_ui import get_swaggerui_blueprint
 from langchain.callbacks import get_openai_callback
+from flask_caching import Cache
 from openai import OpenAI
-import dfagent
+
+from dfagent import model, df, TEMPERATURE, create_pandas_dataframe_agent
 import prompts
 import os
 
+cache = Cache(config={'CACHE_TYPE': 'SimpleCache'})
 app = Flask(__name__)
-
+cache.init_app(app)
 
 # @app.route("/static/<path:path>")
 # def send_static(path):
@@ -24,6 +27,21 @@ app = Flask(__name__)
 # )
 # app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
+# AGENT CREATION HAPPENS HERE
+agent = create_pandas_dataframe_agent(
+    model=model,
+    temperature=TEMPERATURE,
+    df=df,
+    prefix=prompts.REIDIN_PREFIX,
+    suffix=prompts.SUFFIX,
+    format_instructions=prompts.FORMAT_INSTRUCTIONS,
+    verbose=True,
+    handle_parsing_errors=True,
+    # max_execution_time=30,
+)
+
+client = OpenAI()
+
 @app.route("/")
 def hello():
     return jsonify({
@@ -38,25 +56,10 @@ def favicon():
 
 
 @app.route("/chat/<message>")
+@cache.memoize(timeout=300)
 def send_message(message):
 
     try:
-        temperature = request.args.get('temperature')
-        model = request.args.get('model')
-
-        # AGENT CREATION HAPPENS HERE
-        agent = dfagent.create_pandas_dataframe_agent(
-            model=model or dfagent.model,
-            temperature=temperature or dfagent.TEMPERATURE,
-            df=dfagent.df,
-            prefix=prompts.REIDIN_PREFIX,
-            suffix=prompts.SUFFIX,
-            format_instructions=prompts.FORMAT_INSTRUCTIONS,
-            verbose=True,
-            handle_parsing_errors=True,
-            # max_execution_time=30,
-        )
-        
         with get_openai_callback() as cb:
             response = agent.run(message)
             print(cb)
@@ -66,8 +69,8 @@ def send_message(message):
                 "role": "assistant",
                 "content": response
             },
-            'model': model or dfagent.model,
-            'temperature': (float(temperature) if temperature else "") or dfagent.TEMPERATURE,
+            'model': model,
+            'temperature': TEMPERATURE,
             'total_tokens': str(cb.total_tokens),
             'total_cost_usd': str(cb.total_cost)
         }
@@ -78,11 +81,15 @@ def send_message(message):
         return jsonify({"error": str(e)}), 400
 
 
+def make_key():
+    data = request.get_json()
+    return ",".join([f"{key}={value}" for key, value in data.items()])
+
 
 @app.route("/description", methods=["POST"])
+@cache.cached(timeout=180, make_cache_key=make_key)
 def generate():
     try:
-        client = OpenAI()
         payload = request.get_json()
         features = payload.get("features", {})
         model = request.args.get('model')

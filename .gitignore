@@ -1,4 +1,10 @@
+# folders
 __pycache__/
 ignore/
+
+# .py files
 apitest.py
+generation_app.py
+
+# others
 *.ipynb
