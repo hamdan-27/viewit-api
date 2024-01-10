@@ -2,6 +2,9 @@
 __pycache__/
 ignore/
 
+# .env
+*.env
+
 # .py files
 apitest.py
 generation_app.py

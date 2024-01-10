@@ -55,7 +55,7 @@ def favicon():
     return app.send_static_file('favicon.ico')
 
 
-@app.route("/chat/<message>")
+@app.get("/chat/<message>")
 @cache.memoize(timeout=300)
 def send_message(message):
 
@@ -86,7 +86,7 @@ def make_key():
     return ",".join([f"{key}={value}" for key, value in data.items()])
 
 
-@app.route("/description", methods=["POST"])
+@app.post("/description")
 @cache.cached(timeout=180, make_cache_key=make_key)
 def generate():
     try:
