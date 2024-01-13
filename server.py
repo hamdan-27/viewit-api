@@ -1,8 +1,9 @@
 # import uvicorn
-# from main import app
+from main import app as application
 import sys
 from gunicorn.app.wsgiapp import run
 
+app = application
 
 if __name__ == "__main__":
     sys.argv = "sudo gunicorn main:app --workers 4 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:5151".split()
