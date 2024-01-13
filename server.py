@@ -1,10 +1,10 @@
-# import uvicorn
-# from main import app
-import sys
-from gunicorn.app.wsgiapp import run
+import uvicorn
+from main import app
+# import sys
+# from gunicorn.app.wsgiapp import run
 
 
 if __name__ == "__main__":
-    sys.argv = "gunicorn main:app --workers 4 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:5000".split()
-    sys.exit(run())
-    # uvicorn.run(app, host="0.0.0.0", port=8181)
+    # sys.argv = "gunicorn main:app --workers 4 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:5000".split()
+    # sys.exit(run())
+    uvicorn.run(app, host="0.0.0.0", port=5000, workers=4)
