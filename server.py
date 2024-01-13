@@ -14,4 +14,4 @@ from hypercorn import run
 from main import app
 
 if __name__ == '__main__':
-    run(app, bind="0.0.0.0:8000")
+    run(app)
