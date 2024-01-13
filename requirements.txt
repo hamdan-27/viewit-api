@@ -33,5 +33,6 @@ ujson==5.7.0
 tabulate
 tiktoken
 uvicorn==0.22.0
+uvloop==0.17.0
 watchfiles==0.19.0
 websockets==11.0.3
