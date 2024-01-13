@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException, Request, Query, Body
 from fastapi.responses import FileResponse, HTMLResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
+import uvicorn
 
 from langchain.callbacks import get_openai_callback
 from openai import OpenAI
@@ -112,3 +113,6 @@ def generate(
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=5000, workers=4)
