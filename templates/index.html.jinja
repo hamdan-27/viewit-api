@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', path='styles.css') }}">
+    <title>Welcome to Viewit AI API</title>
+</head>
+
+<body>
+    <div class="container-fluid text-center">
+        <h1>Welcome to Viewit AI API</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="container-box" onclick="location.href='/docs';">
+                    <img src="{{ url_for('static', path='docs_logo.png') }}" alt="Docs Logo">
+                    <h2>Docs</h2>
+                    <p>Go to the SwaggerUI documentation for Viewit AI API</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="container-box" onclick="location.href='/chat/hi';">
+                    <img src="{{ url_for('static', path='chat_logo.png') }}" alt="Chat Logo">
+                    <h2>Chat Endpoint</h2>
+                    <p>Use the Viewit Chat API</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="container-box" onclick="location.href='/description';">
+                    <img src="{{ url_for('static', path='description_logo.png') }}" alt="Description Logo">
+                    <h2>Description Endpoint</h2>
+                    <p>This is a POST method. Test this on Postman/cURL with a request body.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

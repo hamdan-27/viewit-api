@@ -1,0 +1,40 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container-fluid {
+    padding-top: 50px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.container-box {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+.container-box:hover {
+    transform: scale(1.05);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #007bff;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 14px;
+    color: #6c757d;
+}

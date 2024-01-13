@@ -1,5 +1,7 @@
-from fastapi import FastAPI, HTTPException, Query, Body
-from fastapi.responses import FileResponse
+from fastapi import FastAPI, HTTPException, Request, Query, Body
+from fastapi.responses import FileResponse, HTMLResponse
+from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
 
 from langchain.callbacks import get_openai_callback
 from openai import OpenAI
@@ -9,6 +11,9 @@ import prompts
 
 
 app = FastAPI()
+
+app.mount("/static", StaticFiles(directory="static"), name="static")
+templates = Jinja2Templates(directory="templates")
 
 client = OpenAI()
 
@@ -24,8 +29,15 @@ agent = create_pandas_dataframe_agent(
 )
 
 
-@app.get("/")
-def hello():
+@app.get(
+        "/", 
+        # response_class=HTMLResponse
+        )
+def hello(
+    # request: Request
+    ):
+    # return templates.TemplateResponse('index.html.jinja', {"request": request})
+
     return {"message": "Welcome to the Viewit API! Please navigate to the /chat endpoint"
             " for the chatbot API, or the /description endpoint for the property"
             " description API."}
