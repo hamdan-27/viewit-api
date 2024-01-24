@@ -1,5 +1,4 @@
-from flask import Flask, request, jsonify, send_from_directory
-# from flask_swagger_ui import get_swaggerui_blueprint
+from flask import Flask, request, jsonify#, send_from_directory
 from langchain.callbacks import get_openai_callback
 from flask_caching import Cache
 from openai import OpenAI
@@ -12,20 +11,6 @@ cache = Cache(config={'CACHE_TYPE': 'SimpleCache'})
 app = Flask(__name__)
 cache.init_app(app)
 
-# @app.route("/static/<path:path>")
-# def send_static(path):
-#     return send_from_directory("static", path)
-
-# SWAGGER_URL = '/swagger'
-# API_URL = '/static/swagger.json'
-# swaggerui_blueprint = get_swaggerui_blueprint(
-#     SWAGGER_URL,
-#     API_URL,
-#     config={
-#         'app_name': 'Viewit AI API'
-#     }
-# )
-# app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
 # AGENT CREATION HAPPENS HERE
 agent = create_pandas_dataframe_agent(
