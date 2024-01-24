@@ -76,12 +76,15 @@ def make_key():
 def generate():
     try:
         payload = request.get_json()
+        
         features = payload.get("features", {})
+        seo = payload.get("seo").lower()
+        seo_list = seo.replace(' ', '').split(',') if seo else None
+        tone = payload.get("tone")
+        
         model = request.args.get('model')
         temp = request.args.get('temperature')
         temperature = float(temp) if temp else None
-        seo = payload.get("seo")
-        seo_list = seo.replace(' ', '').split(',') if seo else None
 
         seo_prompt = f"Use these keywords in your description for better SEO: {seo_list}\n" if seo else ''
 
@@ -89,6 +92,7 @@ def generate():
         characters. The features of the property are mentioned in the json provided by the user. \
         The price should be in AED.
         {seo_prompt}
+        Write in a {tone} tone.
         """
 
         completion = client.chat.completions.create(
