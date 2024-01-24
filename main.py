@@ -87,12 +87,13 @@ def generate():
         temperature = float(temp) if temp else None
 
         seo_prompt = f"Use these keywords in your description for better SEO: {seo_list}\n" if seo else ''
+        tone_prompt = f"Write in a {tone} tone." if tone else ''
 
         prompt = f"""Generate ONLY the description for a property listing in under 1000 \
         characters. The features of the property are mentioned in the json provided by the user. \
         The price should be in AED.
         {seo_prompt}
-        Write in a {tone} tone.
+        {tone_prompt}
         """
 
         completion = client.chat.completions.create(
