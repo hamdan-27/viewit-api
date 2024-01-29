@@ -106,13 +106,15 @@ def generate():
         )
 
         description = completion.choices[0].message.content
+        token_usage = completion.usage
 
         response_data = {
             "response": {
                 "description": description
             },
             "model": model or "gpt-4-1106-preview",
-            "temperature": temperature or 0.1
+            "temperature": temperature or 0.1,
+            "token_usage": token_usage
         }
 
         return jsonify(response_data), 200
