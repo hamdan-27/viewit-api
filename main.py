@@ -74,7 +74,7 @@ def make_key():
 @app.post("/description")
 @cache.cached(timeout=180, make_cache_key=make_key)
 def generate():
-    try:
+    # try:
         payload: dict = request.get_json()
         
         features = payload.get("features", {})
@@ -114,13 +114,13 @@ def generate():
             },
             "model": model or "gpt-4-1106-preview",
             "temperature": temperature or 0.1,
-            "token_usage": token_usage
+            "token_usage": dict(token_usage)
         }
 
         return jsonify(response_data), 200
 
-    except Exception as e:
-        return jsonify({"error": str(e)}), 400
+    # except Exception as e:
+    #     return jsonify({"error": str(e)}), 400
 
 
 if __name__ == "__main__":
