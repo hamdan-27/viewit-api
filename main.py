@@ -75,11 +75,11 @@ def make_key():
 @cache.cached(timeout=180, make_cache_key=make_key)
 def generate():
     try:
-        payload = request.get_json()
+        payload: dict = request.get_json()
         
         features = payload.get("features", {})
-        seo = payload.get("seo").lower()
-        seo_list = seo.replace(' ', '').split(',') if seo else None
+        seo = payload.get("seo")
+        seo_list = seo.replace(' ', '').lower().split(',') if seo else None
         tone = payload.get("tone")
         
         model = request.args.get('model')
