@@ -81,6 +81,7 @@ def generate():
         seo_list = seo.replace(' ', '').lower().split(',') if seo else None
         tone = payload.get("tone")
         
+        currency = request.args.get('currency')
         model = request.args.get('model')
         temp = request.args.get('temperature')
         temperature = float(temp) if temp else None
@@ -90,7 +91,7 @@ def generate():
 
         prompt = f"""Generate ONLY the description for a property listing in under 1000 \
         characters. The features of the property are mentioned in the json provided by the user. \
-        The price should be in AED.
+        The price should be in {currency}.
         {seo_prompt}
         {tone_prompt}
         """
