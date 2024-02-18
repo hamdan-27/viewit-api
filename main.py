@@ -11,8 +11,6 @@ cache = Cache(config={'CACHE_TYPE': 'SimpleCache'})
 app = Flask(__name__)
 cache.init_app(app)
 
-# API_KEY = "hamdanTheGoat"
-
 # AGENT CREATION HAPPENS HERE
 agent = create_pandas_dataframe_agent(
     model=model,
@@ -28,29 +26,12 @@ agent = create_pandas_dataframe_agent(
 
 client = OpenAI()
 
-# def authorise_request():
-#     auth_header = request.headers.get("Authorization")
-    
-#     if not auth_header or not auth_header.startswith('Bearer '):
-#         return jsonify({"error": "Unauthorized"}), 401
-
-#     provided_token = auth_header.split(" ")[1]
-
-#     if provided_token != API_KEY:
-#         return jsonify({"error": "Invalid API key"}), 401
-    
-#     return None
-
-
 @app.route("/")
 def hello():
-    # authorisation_result = authorise_request()
-    
-    # if authorisation_result:
-        return jsonify({
-            "message": "Welcome to the Viewit API! Please navigate to the /chat endpoint" \
-            " for the chatbot API, or the /description endpoint for the property" \
-                " description API."}), 200
+    return jsonify({
+        "message": "Welcome to the Viewit API! Please navigate to the /chat endpoint" \
+        " for the chatbot API, or the /description endpoint for the property" \
+            " description API."}), 200
 
 
 @app.route('/favicon.ico')
